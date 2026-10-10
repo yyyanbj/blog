@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Efficiency on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/efficiency/</link>
+    <description>Recent content in Efficiency on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:54:19 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Efficiency Analysis in Distributed Machine Learning</title>
+      <link>https://blog.bj-yan.top/en/p/blog-efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>Analyzing the stochastic runtime of synchronous, asynchronous, and K-worker SGD, and discussing the time to reach target accuracy and parallel speedup limits in conjunction with convergence bounds.</description>
+    </item>
+    
+  </channel>
+</rss>

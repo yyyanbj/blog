@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hainan-university on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/hainan-university/</link>
+    <description>Recent content in hainan-university on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/tags/hainan-university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>别了，我的小岛</title>
+      <link>https://blog.bj-yan.top/p/misc-good-bye-hainan/</link>
+      <pubDate>Mon, 13 Jun 2022 01:03:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-good-bye-hainan/</guid>
+      <description>在离开海南之际回忆海南大学四年的生活，记录小岛气候、朋友与日常片段，分享毕业时的不舍和告别。</description>
+    </item>
+    
+    <item>
+      <title>海南大学课程攻略共享计划</title>
+      <link>https://blog.bj-yan.top/p/blog-hainanu-course-comments/</link>
+      <pubDate>Thu, 28 Oct 2021 00:38:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hainanu-course-comments/</guid>
+      <description>介绍海南大学课程攻略共享计划的起因、MkDocs 网站部署与评论系统，以及项目上线第一天的推广反馈和维护想法。</description>
+    </item>
+    
+    <item>
+      <title>漫漫求学路</title>
+      <link>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</guid>
+      <description>回顾从高中信息学竞赛到海南大学的求学经历，记录大学期间的学习、项目与成长，以及推免阶段的心路历程。</description>
+    </item>
+    
+    <item>
+      <title>记第一次雅思考试一日游</title>
+      <link>https://blog.bj-yan.top/p/misc-20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 13:03:45 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20210724/</guid>
+      <description>记录 2021 年在海南大学参加第一次雅思纸笔考试的经历，回顾口语、听力、阅读和写作各环节的现场感受。</description>
+    </item>
+    
+  </channel>
+</rss>

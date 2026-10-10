@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Course on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/course/</link>
+    <description>Recent content in Course on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 26 Aug 2022 22:49:57 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCAS 课程表日程解决方案</title>
+      <link>https://blog.bj-yan.top/p/blog-ucas-course-schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-ucas-course-schedule/</guid>
+      <description>整理中国科学院大学课表的 ICS 导出与日历导入方法，介绍课程网站、油猴插件、Wakeup、iOS 和 Windows 的操作方案。</description>
+    </item>
+    
+  </channel>
+</rss>

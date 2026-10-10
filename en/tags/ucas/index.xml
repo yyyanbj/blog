@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ucas on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/ucas/</link>
+    <description>Recent content in ucas on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://blog.bj-yan.top/en/tags/ucas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miscellaneous Notes: 20241102</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20241102/</link>
+      <pubDate>Sat, 02 Nov 2024 22:29:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20241102/</guid>
+      <description>Recording recent updates from early November 2024, sharing reflections on blog maintenance, living alone and renting, the thesis proposal and application stages, and thoughts on life in Beijing.</description>
+    </item>
+    
+    <item>
+      <title>UCAS Course Schedule Solution</title>
+      <link>https://blog.bj-yan.top/en/p/blog-ucas-course-schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-ucas-course-schedule/</guid>
+      <description>A guide to exporting UCAS course schedules as ICS files and importing them into calendars, covering the course website, Tampermonkey plugins, Wakeup app, and solutions for iOS and Windows.</description>
+    </item>
+    
+    <item>
+      <title>UCAS Bypasses Campus Network Data Billing Using IPv6</title>
+      <link>https://blog.bj-yan.top/en/p/blog-ucas-ipv6-bypass/</link>
+      <pubDate>Sun, 21 Aug 2022 09:44:53 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-ucas-ipv6-bypass/</guid>
+      <description>Documents the practice of using IPv6 proxies in the UCAS campus network environment, covering IPv6 activation, proxy forwarding, DNS64 configuration, multi-device setup, and usage precautions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Convergence-Analysis on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/convergence-analysis/</link>
+    <description>Recent content in Convergence-Analysis on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 08 Aug 2023 15:04:00 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/convergence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>从 FedAvg 的本地更新推导全参与模型下的非凸驻点界与强凸误差界，区分梯度噪声、客户端漂移和采样误差，并讨论部分参与与异质性修正。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>推导同步、异步及 K-Async SGD 的强凸收敛界，明确独立采样、条件无偏、梯度滞后与新鲜概率假设。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>在条件无偏和方差有界假设下推导 mini-batch SGD 的强凸误差界与非凸驻点界，说明步长和噪声的影响。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>推导光滑与非光滑、凸与非凸条件下的一阶方法收敛界，明确步长、输出点及迭代复杂度。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>统一凸性、强凸性、光滑性与随机梯度的定义和假设，并推导收敛性分析常用的不等式。</description>
+    </item>
+    
+  </channel>
+</rss>

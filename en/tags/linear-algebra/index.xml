@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linear-algebra on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/linear-algebra/</link>
+    <description>Recent content in linear-algebra on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://blog.bj-yan.top/en/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigating Things to Extend Knowledge - Linear Algebra</title>
+      <link>https://blog.bj-yan.top/en/p/blog-linear-algerbra-ng/</link>
+      <pubDate>Thu, 14 Oct 2021 21:53:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-linear-algerbra-ng/</guid>
+      <description>Drawing from 3Blue1Brown&amp;#39;s &amp;#39;Essence of Linear Algebra&amp;#39;, this post explores matrix multiplication, determinants, inverse matrices, and rank through the lens of geometric transformations, documenting my personal insights into learning linear algebra.</description>
+    </item>
+    
+  </channel>
+</rss>

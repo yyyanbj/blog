@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nft on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/nft/</link>
+    <description>Recent content in Nft on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Feb 2022 09:58:14 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/nft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common NFT Websites</title>
+      <link>https://blog.bj-yan.top/en/p/blog-nft-common-site/</link>
+      <pubDate>Tue, 15 Feb 2022 09:58:14 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-nft-common-site/</guid>
+      <description>A collection of NFT trading platforms, news updates, galleries, and tools I use and follow while writing; includes personal impressions. Platform status and service information are time-sensitive.</description>
+    </item>
+    
+    <item>
+      <title>First Experience with Bigverse</title>
+      <link>https://blog.bj-yan.top/en/p/misc-bigverse-first-experience/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-bigverse-first-experience/</guid>
+      <description>Documenting my first-time experience using the Bigverse digital art platform, sharing my pixel art creation process and personal impressions of the website interface and NFT minting workflow.</description>
+    </item>
+    
+  </channel>
+</rss>

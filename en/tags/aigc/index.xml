@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aigc on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/aigc/</link>
+    <description>Recent content in Aigc on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Mar 2023 19:19:58 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/aigc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to Using the GPT-3.5 Turbo API: Parameters and Code Examples (2023)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-advantage-usage-for-gpt-3-5-turbo/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-advantage-usage-for-gpt-3-5-turbo/</guid>
+      <description>Documents the usage of the GPT-3.5 Turbo API in 2023, covering streaming output, temperature, top_p, and other parameters along with Python examples; content is time-sensitive.</description>
+    </item>
+    
+  </channel>
+</rss>

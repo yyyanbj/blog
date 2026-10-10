@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep-Learning on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/deep-learning/</link>
+    <description>Recent content in Deep-Learning on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:54:19 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分布式机器学习中的效率分析</title>
+      <link>https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>分析同步、异步与 K-worker SGD 的随机运行时间，结合收敛界讨论达到目标精度的时间与并行加速限制。</description>
+    </item>
+    
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>从 FedAvg 的本地更新推导全参与模型下的非凸驻点界与强凸误差界，区分梯度噪声、客户端漂移和采样误差，并讨论部分参与与异质性修正。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>推导同步、异步及 K-Async SGD 的强凸收敛界，明确独立采样、条件无偏、梯度滞后与新鲜概率假设。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的隐私泄露：模型、预测与梯度暴露了什么？</title>
+      <link>https://blog.bj-yan.top/p/blog-privacy-leakage-in-deep-learning/</link>
+      <pubDate>Fri, 28 Jul 2023 09:54:50 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-privacy-leakage-in-deep-learning/</guid>
+      <description>梳理成员推断、属性推断、模型反演与训练数据提取，推导单样本梯度的可恢复性，并讨论联邦学习、风险评估及不同隐私保护手段的适用边界。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>在条件无偏和方差有界假设下推导 mini-batch SGD 的强凸误差界与非凸驻点界，说明步长和噪声的影响。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>推导光滑与非光滑、凸与非凸条件下的一阶方法收敛界，明确步长、输出点及迭代复杂度。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>统一凸性、强凸性、光滑性与随机梯度的定义和假设，并推导收敛性分析常用的不等式。</description>
+    </item>
+    
+    <item>
+      <title>AI 会取代艺术家的工作吗？</title>
+      <link>https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/</guid>
+      <description>结合扩散模型与 AI 绘画的发展，讨论艺术创作中哪些工作可能被自动化，以及图像生成的能力、局限和创作者的技术角色。</description>
+    </item>
+    
+    <item>
+      <title>扩散模型试玩</title>
+      <link>https://blog.bj-yan.top/p/blog-diffusion-model-trial/</link>
+      <pubDate>Sun, 11 Sep 2022 23:03:04 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-diffusion-model-trial/</guid>
+      <description>梳理扩散模型的基本思路与发展历史，记录 Stable Diffusion、DALL·E 等图像生成模型的试玩体验与生成效果。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 水上飞机识别：模型训练与测试</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/</guid>
+      <description>记录 hCaptcha 水上飞机识别任务的训练与测试实践，讨论样本标注、过拟合问题及模型训练流程的组织方式。</description>
+    </item>
+    
+    <item>
+      <title>下一代验证码会是什么？CAPTCHA 历史与人机对抗</title>
+      <link>https://blog.bj-yan.top/p/blog-where-is-the-next-generation-of-captcha/</link>
+      <pubDate>Sun, 01 May 2022 01:53:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-where-is-the-next-generation-of-captcha/</guid>
+      <description>回顾 CAPTCHA 从字符识别到图像识别的发展，结合 hCaptcha 实践讨论人机对抗、用户体验和下一代验证码的可能方向。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 树叶大象识别：数据与模型实践</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>分析 hCaptcha 树叶大象图片识别任务的数据与视觉特征，讨论样本分类、模型训练和相似图片带来的识别难点。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 向左飞行飞机识别：图像处理思路</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/</guid>
+      <description>分析 hCaptcha 向左飞行飞机任务，介绍利用背景复杂度、图像颜色与方向特征判断飞机是否在天空中的实现思路。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 垂直河流识别：图像特征与实现思路</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/</guid>
+      <description>分析 hCaptcha 垂直河流图片任务，记录图像特征观察、识别方法与方案迭代，讨论生成图像对验证码识别的影响。</description>
+    </item>
+    
+    <item>
+      <title>深度学习与像素画：研究、数据集与工具</title>
+      <link>https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/</guid>
+      <description>整理像素画的风格特征、画廊、数据集与绘制工具，介绍深度学习在像素化、去像素化和像素画生成中的研究与项目。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Information-Theory on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/information-theory/</link>
+    <description>Recent content in Information-Theory on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 28 Jul 2023 14:55:49 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/information-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>隐私计算中的信息论：如何理解与度量信息泄露</title>
+      <link>https://blog.bj-yan.top/p/blog-information-theory-for-privacy/</link>
+      <pubDate>Fri, 28 Jul 2023 14:55:49 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-information-theory-for-privacy/</guid>
+      <description>从攻击者的观察与辅助信息出发，介绍熵、条件互信息、数据处理不等式和 Fano 不等式，并通过随机响应说明信息论隐私与差分隐私的联系和区别。</description>
+    </item>
+    
+  </channel>
+</rss>

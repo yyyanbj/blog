@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/post/</link>
+    <description>Recent content in Posts on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于这个博客：分类、技术栈与写作计划</title>
+      <link>https://blog.bj-yan.top/p/readme/</link>
+      <pubDate>Sat, 16 Oct 2021 18:34:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/readme/</guid>
+      <description>介绍小冰博客的迁移经历、文章分类与写作计划，说明 Hugo、GitHub Actions、MathJax 和提示框等站点功能。</description>
+    </item>
+    
+    <item>
+      <title>精酿啤酒</title>
+      <link>https://blog.bj-yan.top/p/blog-craft-beer/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-craft-beer/</guid>
+      <description>从麦芽、酒花和酵母讲起，介绍 ABV、IBU 等常见术语，以及拉格、小麦、IPA、世涛和酸啤等风格，整理精酿啤酒的点单与品饮入门方法。</description>
+    </item>
+    
+    <item>
+      <title>《金阁寺》读后感：善恶、美丑与虚无</title>
+      <link>https://blog.bj-yan.top/p/note-jin-ge-si/</link>
+      <pubDate>Tue, 04 Feb 2025 16:00:33 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/note-jin-ge-si/</guid>
+      <description>阅读三岛由纪夫《金阁寺》后的感想，从沟口的自卑、欲望与毁灭讨论善恶、美丑、虚无和现实之间的关系。</description>
+    </item>
+    
+    <item>
+      <title>或许是 2024 年终总结</title>
+      <link>https://blog.bj-yan.top/p/journey-annual-summary-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-annual-summary-2024/</guid>
+      <description>小冰的 2024 年终总结，回顾朋友、自由与焦虑，记录电影、阅读、音乐、游戏和日常生活，并写下对 2025 年的期待。</description>
+    </item>
+    
+    <item>
+      <title>亲密关系的核心是友谊</title>
+      <link>https://blog.bj-yan.top/p/note-qin-mi-guan-xi-de-he-xin-shi-you-yi/</link>
+      <pubDate>Fri, 27 Dec 2024 01:38:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/note-qin-mi-guan-xi-de-he-xin-shi-you-yi/</guid>
+      <description>《亲密关系的核心是友谊》读书笔记，讨论身体、友谊与关系中的角色，并记录对书中人工智能观点的个人看法。</description>
+    </item>
+    
+    <item>
+      <title>杂记：20241104</title>
+      <link>https://blog.bj-yan.top/p/misc-20241104/</link>
+      <pubDate>Mon, 04 Nov 2024 00:49:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20241104/</guid>
+      <description>记录 2024 年 11 月 4 日的生活，分享博士规划讨论和国家大剧院《嫌疑人福尔摩斯》的观剧体验。</description>
+    </item>
+    
+    <item>
+      <title>杂记：20241102</title>
+      <link>https://blog.bj-yan.top/p/misc-20241102/</link>
+      <pubDate>Sat, 02 Nov 2024 22:29:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20241102/</guid>
+      <description>记录 2024 年 11 月初的近况，分享博客维护、独居与租房、开题和申请阶段的感受，以及对北京生活的思考。</description>
+    </item>
+    
+    <item>
+      <title>免拔卡换区解锁 TikTok</title>
+      <link>https://blog.bj-yan.top/p/blog-tiktok-unlock/</link>
+      <pubDate>Mon, 18 Mar 2024 13:30:36 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-tiktok-unlock/</guid>
+      <description>记录 iOS 上免拔卡使用 TikTok 的尝试，整理 Shadowrocket 代理配置、旧版应用下载与安装步骤；方法具有时效性。</description>
+    </item>
+    
+    <item>
+      <title>或许是 2023 年度总结</title>
+      <link>https://blog.bj-yan.top/p/journey-annual-summary-2023/</link>
+      <pubDate>Mon, 12 Feb 2024 10:54:07 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-annual-summary-2023/</guid>
+      <description>回顾小冰的 2023 年生活，记录电影首映、音乐与日常体验，分享这一年值得记下的经历和个人感想。</description>
+    </item>
+    
+    <item>
+      <title>联邦学习中的 Dirichlet 分布：从概率向量到 Non-IID 数据划分</title>
+      <link>https://blog.bj-yan.top/p/blog-dirichlet-distribution-in-federated-learning/</link>
+      <pubDate>Tue, 22 Aug 2023 17:58:41 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-dirichlet-distribution-in-federated-learning/</guid>
+      <description>介绍 Dirichlet 分布的定义、浓度参数与统计性质，区分两种联邦数据划分方向，并给出可复现、无遗漏的 NumPy 实现及实验检查方法。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的效率分析</title>
+      <link>https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>分析同步、异步与 K-worker SGD 的随机运行时间，结合收敛界讨论达到目标精度的时间与并行加速限制。</description>
+    </item>
+    
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>从 FedAvg 的本地更新推导全参与模型下的非凸驻点界与强凸误差界，区分梯度噪声、客户端漂移和采样误差，并讨论部分参与与异质性修正。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>推导同步、异步及 K-Async SGD 的强凸收敛界，明确独立采样、条件无偏、梯度滞后与新鲜概率假设。</description>
+    </item>
+    
+    <item>
+      <title>隐私计算中的信息论：如何理解与度量信息泄露</title>
+      <link>https://blog.bj-yan.top/p/blog-information-theory-for-privacy/</link>
+      <pubDate>Fri, 28 Jul 2023 14:55:49 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-information-theory-for-privacy/</guid>
+      <description>从攻击者的观察与辅助信息出发，介绍熵、条件互信息、数据处理不等式和 Fano 不等式，并通过随机响应说明信息论隐私与差分隐私的联系和区别。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的隐私泄露：模型、预测与梯度暴露了什么？</title>
+      <link>https://blog.bj-yan.top/p/blog-privacy-leakage-in-deep-learning/</link>
+      <pubDate>Fri, 28 Jul 2023 09:54:50 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-privacy-leakage-in-deep-learning/</guid>
+      <description>梳理成员推断、属性推断、模型反演与训练数据提取，推导单样本梯度的可恢复性，并讨论联邦学习、风险评估及不同隐私保护手段的适用边界。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>在条件无偏和方差有界假设下推导 mini-batch SGD 的强凸误差界与非凸驻点界，说明步长和噪声的影响。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>推导光滑与非光滑、凸与非凸条件下的一阶方法收敛界，明确步长、输出点及迭代复杂度。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>统一凸性、强凸性、光滑性与随机梯度的定义和假设，并推导收敛性分析常用的不等式。</description>
+    </item>
+    
+    <item>
+      <title>如何获得微信红包的 Top K</title>
+      <link>https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/</guid>
+      <description>通过 Python 模拟微信红包分配，比较不同领取顺序进入金额 Top K 的概率，展示模拟结果并说明模型假设与局限。</description>
+    </item>
+    
+    <item>
+      <title>使用 Zotero 和 Notion 管理文献和笔记</title>
+      <link>https://blog.bj-yan.top/p/blog-using-zotero-and-notion-manage-your-papers-and-notes/</link>
+      <pubDate>Wed, 28 Jun 2023 11:24:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-using-zotero-and-notion-manage-your-papers-and-notes/</guid>
+      <description>使用 Notero 将 Zotero 文献库与 Notion 笔记联动，介绍 Notion integration、数据库和插件配置步骤，并整理常见问题。</description>
+    </item>
+    
+    <item>
+      <title>我们总是被困在自己的认知中</title>
+      <link>https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</link>
+      <pubDate>Tue, 13 Jun 2023 22:08:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</guid>
+      <description>从一次 Python 并行工具讨论出发，思考已有知识与工具习惯如何影响选择，以及人们尝试新事物的动力和认知边界。</description>
+    </item>
+    
+    <item>
+      <title>使用 MPI 加速联邦学习的模拟</title>
+      <link>https://blog.bj-yan.top/p/blog-accelerating-federated-learning-simulation-using-mpi/</link>
+      <pubDate>Tue, 21 Mar 2023 12:41:13 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-accelerating-federated-learning-simulation-using-mpi/</guid>
+      <description>使用 mpi4py 和 PyTorch 搭建联邦学习模拟器，介绍服务器与客户端结构、MPI 执行流程、多进程运行方式及实验性能。</description>
+    </item>
+    
+    <item>
+      <title>杂记：钻石分段</title>
+      <link>https://blog.bj-yan.top/p/misc-games-rank-diamond/</link>
+      <pubDate>Tue, 21 Mar 2023 12:12:17 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-games-rank-diamond/</guid>
+      <description>记录 Apex Legends 单排晋升钻石的经历，回顾赛季排位、游戏投入与个人游戏史，以及达成目标后的感受。</description>
+    </item>
+    
+    <item>
+      <title>GPT-3.5 Turbo API 使用指南：参数与代码示例（2023）</title>
+      <link>https://blog.bj-yan.top/p/blog-advantage-usage-for-gpt-3-5-turbo/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-advantage-usage-for-gpt-3-5-turbo/</guid>
+      <description>记录 2023 年 GPT-3.5 Turbo API 的使用方法，介绍流式输出、temperature、top_p 等参数及 Python 示例，内容具有时效性。</description>
+    </item>
+    
+    <item>
+      <title>GitHub 没啥用小技巧</title>
+      <link>https://blog.bj-yan.top/p/blog-github-useless-tips/</link>
+      <pubDate>Thu, 02 Mar 2023 17:05:24 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-github-useless-tips/</guid>
+      <description>整理 GitHub 使用小技巧，包括个人简介仓库、GitHub Pages 自定义域名、Actions 写入权限、学生权益和 Emoji。</description>
+    </item>
+    
+    <item>
+      <title>ezkfg v0.1.1 发布：配置加载与保存更新</title>
+      <link>https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/</link>
+      <pubDate>Wed, 01 Mar 2023 22:05:34 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/</guid>
+      <description>记录 Python 配置工具 ezkfg v0.1.1 的更新，介绍配置加载接口、比较行为及保存功能的调整，并附版本差异链接。</description>
+    </item>
+    
+    <item>
+      <title>AI 会取代艺术家的工作吗？</title>
+      <link>https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/</guid>
+      <description>结合扩散模型与 AI 绘画的发展，讨论艺术创作中哪些工作可能被自动化，以及图像生成的能力、局限和创作者的技术角色。</description>
+    </item>
+    
+    <item>
+      <title>扩散模型试玩</title>
+      <link>https://blog.bj-yan.top/p/blog-diffusion-model-trial/</link>
+      <pubDate>Sun, 11 Sep 2022 23:03:04 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-diffusion-model-trial/</guid>
+      <description>梳理扩散模型的基本思路与发展历史，记录 Stable Diffusion、DALL·E 等图像生成模型的试玩体验与生成效果。</description>
+    </item>
+    
+    <item>
+      <title>浅谈国内开源社区环境</title>
+      <link>https://blog.bj-yan.top/p/blog-talk-about-the-open-source-environment-in-china/</link>
+      <pubDate>Sun, 11 Sep 2022 13:44:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-talk-about-the-open-source-environment-in-china/</guid>
+      <description>从个人开发者和使用者角度讨论国内开源社区环境，分享对开源含义、项目质量、社区平台及参与体验的看法。</description>
+    </item>
+    
+    <item>
+      <title>UCAS 课程表日程解决方案</title>
+      <link>https://blog.bj-yan.top/p/blog-ucas-course-schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-ucas-course-schedule/</guid>
+      <description>整理中国科学院大学课表的 ICS 导出与日历导入方法，介绍课程网站、油猴插件、Wakeup、iOS 和 Windows 的操作方案。</description>
+    </item>
+    
+    <item>
+      <title>UCAS 利用 IPv6 绕过校园网流量计费</title>
+      <link>https://blog.bj-yan.top/p/blog-ucas-ipv6-bypass/</link>
+      <pubDate>Sun, 21 Aug 2022 09:44:53 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-ucas-ipv6-bypass/</guid>
+      <description>记录 UCAS 校园网环境下使用 IPv6 代理的实践，介绍 IPv6 开启、代理转发、DNS64 与多终端配置及使用注意事项。</description>
+    </item>
+    
+    <item>
+      <title>近日有感 - 20220706</title>
+      <link>https://blog.bj-yan.top/p/misc-20220706/</link>
+      <pubDate>Wed, 06 Jul 2022 20:44:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20220706/</guid>
+      <description>记录 2022 年毕业后的生活感想，谈朋友、未来选择、知识整理、家庭相处和项目实践中的迷茫与思考。</description>
+    </item>
+    
+    <item>
+      <title>别了，我的小岛</title>
+      <link>https://blog.bj-yan.top/p/misc-good-bye-hainan/</link>
+      <pubDate>Mon, 13 Jun 2022 01:03:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-good-bye-hainan/</guid>
+      <description>在离开海南之际回忆海南大学四年的生活，记录小岛气候、朋友与日常片段，分享毕业时的不舍和告别。</description>
+    </item>
+    
+    <item>
+      <title>测试时增强与模型攻防：从 hCaptcha 图片加噪谈起</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</guid>
+      <description>结合 hCaptcha 图片加噪讨论测试时增强、图像降噪与模型攻击防御，并思考图形验证码在鲁棒性和用户体验上的局限。</description>
+    </item>
+    
+    <item>
+      <title>ezkfg：Python 配置工具的设计与实现</title>
+      <link>https://blog.bj-yan.top/p/blog-project-ezkfg/</link>
+      <pubDate>Tue, 17 May 2022 00:48:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-project-ezkfg/</guid>
+      <description>介绍 Python 配置工具 ezkfg 的设计与实现，对比 argparse、配置类和配置文件的使用方式，整理项目需求与后续计划。</description>
+    </item>
+    
+    <item>
+      <title>日程管理软件的选择与个人工作流思考</title>
+      <link>https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/</link>
+      <pubDate>Thu, 12 May 2022 01:01:20 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/</guid>
+      <description>回顾备忘录、滴答清单、便签和飞书等日程管理工具的使用经历，讨论循环任务、多端操作与个人工作流需求。</description>
+    </item>
+    
+    <item>
+      <title>Taichi Voxel Challenge 2022 - PVZ</title>
+      <link>https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022-pvz/</link>
+      <pubDate>Wed, 11 May 2022 16:41:22 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022-pvz/</guid>
+      <description>分享 Taichi Voxel Challenge 2022 的植物大战僵尸体素作品，拆解豌豆射手结构，记录建模思路、代码与制作中的问题。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 水上飞机识别：模型训练与测试</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/</guid>
+      <description>记录 hCaptcha 水上飞机识别任务的训练与测试实践，讨论样本标注、过拟合问题及模型训练流程的组织方式。</description>
+    </item>
+    
+    <item>
+      <title>Taichi Voxel Challenge 2022</title>
+      <link>https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022/</link>
+      <pubDate>Sun, 01 May 2022 15:42:26 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022/</guid>
+      <description>记录参加 Taichi Voxel Challenge 2022 的创作过程，展示体素吃豆人与城堡作品，分享建模实现、调整思路和参赛体会。</description>
+    </item>
+    
+    <item>
+      <title>下一代验证码会是什么？CAPTCHA 历史与人机对抗</title>
+      <link>https://blog.bj-yan.top/p/blog-where-is-the-next-generation-of-captcha/</link>
+      <pubDate>Sun, 01 May 2022 01:53:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-where-is-the-next-generation-of-captcha/</guid>
+      <description>回顾 CAPTCHA 从字符识别到图像识别的发展，结合 hCaptcha 实践讨论人机对抗、用户体验和下一代验证码的可能方向。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 树叶大象识别：数据与模型实践</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>分析 hCaptcha 树叶大象图片识别任务的数据与视觉特征，讨论样本分类、模型训练和相似图片带来的识别难点。</description>
+    </item>
+    
+    <item>
+      <title>baseIine 的无奈 - Codecraft 2022 参赛心路</title>
+      <link>https://blog.bj-yan.top/p/blog-codecraft-2022/</link>
+      <pubDate>Tue, 29 Mar 2022 19:01:47 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-codecraft-2022/</guid>
+      <description>记录参加华为 CodeCraft 2022 的经历，回顾带宽分配与 95 计费赛题、练习赛踩坑、初赛尝试及团队参赛体会。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 向左飞行飞机识别：图像处理思路</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/</guid>
+      <description>分析 hCaptcha 向左飞行飞机任务，介绍利用背景复杂度、图像颜色与方向特征判断飞机是否在天空中的实现思路。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 垂直河流识别：图像特征与实现思路</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/</guid>
+      <description>分析 hCaptcha 垂直河流图片任务，记录图像特征观察、识别方法与方案迭代，讨论生成图像对验证码识别的影响。</description>
+    </item>
+    
+    <item>
+      <title>GitHub Actions 进行简历编译与分发的最佳实践</title>
+      <link>https://blog.bj-yan.top/p/blog-github-actions-cv/</link>
+      <pubDate>Sat, 19 Feb 2022 18:12:54 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-github-actions-cv/</guid>
+      <description>使用 GitHub Actions 自动编译 LaTeX 简历并分发 PDF，介绍工作流、跨仓库推送、SSH Deploy Key 配置及鉴权踩坑。</description>
+    </item>
+    
+    <item>
+      <title>NFT 常用网站</title>
+      <link>https://blog.bj-yan.top/p/blog-nft-common-site/</link>
+      <pubDate>Tue, 15 Feb 2022 09:58:14 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-nft-common-site/</guid>
+      <description>整理写作时使用和关注的 NFT 交易平台、动态资讯、画廊与工具，记录个人使用印象；平台状态与服务信息具有时效性。</description>
+    </item>
+    
+    <item>
+      <title>Bigverse 初体验</title>
+      <link>https://blog.bj-yan.top/p/misc-bigverse-first-experience/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-bigverse-first-experience/</guid>
+      <description>记录 Bigverse 数字艺术平台的初次使用体验，分享像素画创作以及对网站界面和 NFT 上链流程的个人印象。</description>
+    </item>
+    
+    <item>
+      <title>深度学习与像素画：研究、数据集与工具</title>
+      <link>https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/</guid>
+      <description>整理像素画的风格特征、画廊、数据集与绘制工具，介绍深度学习在像素化、去像素化和像素画生成中的研究与项目。</description>
+    </item>
+    
+    <item>
+      <title>海南大学课程攻略共享计划</title>
+      <link>https://blog.bj-yan.top/p/blog-hainanu-course-comments/</link>
+      <pubDate>Thu, 28 Oct 2021 00:38:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hainanu-course-comments/</guid>
+      <description>介绍海南大学课程攻略共享计划的起因、MkDocs 网站部署与评论系统，以及项目上线第一天的推广反馈和维护想法。</description>
+    </item>
+    
+    <item>
+      <title>格物致知 - 线性代数</title>
+      <link>https://blog.bj-yan.top/p/blog-linear-algerbra-ng/</link>
+      <pubDate>Thu, 14 Oct 2021 21:53:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-linear-algerbra-ng/</guid>
+      <description>结合 3Blue1Brown《线性代数的本质》，从几何变换角度理解矩阵乘法、行列式、逆矩阵与秩，记录线性代数学习体会。</description>
+    </item>
+    
+    <item>
+      <title>世界的本质是数学</title>
+      <link>https://blog.bj-yan.top/p/misc-20211013/</link>
+      <pubDate>Wed, 13 Oct 2021 19:43:15 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20211013/</guid>
+      <description>从阅读优化书籍与重新推导 SGD 出发，记录对数学、矩阵微分和学习方法的思考，以及校园里的日常见闻。</description>
+    </item>
+    
+    <item>
+      <title>第一次打 120 &amp; 第一次坐救护车</title>
+      <link>https://blog.bj-yan.top/p/misc-20211006/</link>
+      <pubDate>Wed, 06 Oct 2021 08:55:36 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20211006/</guid>
+      <description>记录室友身体不适后拨打 120、等待急救和陪同乘坐救护车的经历，分享一次校园生活中的个人见闻。</description>
+    </item>
+    
+    <item>
+      <title>漫漫求学路</title>
+      <link>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</guid>
+      <description>回顾从高中信息学竞赛到海南大学的求学经历，记录大学期间的学习、项目与成长，以及推免阶段的心路历程。</description>
+    </item>
+    
+    <item>
+      <title>2021 数学建模</title>
+      <link>https://blog.bj-yan.top/p/blog-mum-2021/</link>
+      <pubDate>Thu, 09 Sep 2021 23:41:44 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-mum-2021/</guid>
+      <description>整理 2021 年全国大学生数学建模竞赛 C 题思路，讨论生产企业原材料订购、供应商选择与运输安排的建模方案。</description>
+    </item>
+    
+    <item>
+      <title>记第一次雅思考试一日游</title>
+      <link>https://blog.bj-yan.top/p/misc-20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 13:03:45 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20210724/</guid>
+      <description>记录 2021 年在海南大学参加第一次雅思纸笔考试的经历，回顾口语、听力、阅读和写作各环节的现场感受。</description>
+    </item>
+    
+  </channel>
+</rss>

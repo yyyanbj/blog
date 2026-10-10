@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/</link>
+    <description>Recent content on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Oct 2026 20:07:30 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About This Blog: Categories, Tech Stack, and Writing Plans</title>
+      <link>https://blog.bj-yan.top/en/p/readme/</link>
+      <pubDate>Sat, 16 Oct 2021 18:34:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/readme/</guid>
+      <description>Introduces the migration journey of Xiaobing&amp;#39;s Blog, article categorization, and writing plans, explaining site features such as Hugo, GitHub Actions, MathJax, and callout boxes.</description>
+    </item>
+    
+    <item>
+      <title>Craft Beer</title>
+      <link>https://blog.bj-yan.top/en/p/blog-craft-beer/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-craft-beer/</guid>
+      <description>Starting from malt, hops, and yeast, this guide introduces common terms like ABV and IBU, covers styles such as Lager, Wheat, IPA, Stout, and Sour, and organizes an entry-level approach to ordering and tasting craft beer.</description>
+    </item>
+    
+    <item>
+      <title>Reflections on The Temple of the Golden Pavilion: Good and Evil, Beauty and Ugliness, and Emptiness</title>
+      <link>https://blog.bj-yan.top/en/p/note-jin-ge-si/</link>
+      <pubDate>Tue, 04 Feb 2025 16:00:33 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/note-jin-ge-si/</guid>
+      <description>Thoughts after reading Yukio Mishima&amp;#39;s The Temple of the Golden Pavilion, discussing the relationship between good and evil, beauty and ugliness, emptiness and reality, through the lens of Kinkakuji&amp;#39;s protagonist Mizoguchi&amp;#39;s inferiority, desire, and destruction.</description>
+    </item>
+    
+    <item>
+      <title>Perhaps a 2024 Year-End Summary</title>
+      <link>https://blog.bj-yan.top/en/p/journey-annual-summary-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/journey-annual-summary-2024/</guid>
+      <description>Xiao Bing&amp;#39;s 2024 year-end summary, reflecting on friends, freedom, and anxiety; documenting movies, reading, music, games, and daily life, while expressing expectations for 2025.</description>
+    </item>
+    
+    <item>
+      <title>The Core of Intimate Relationships is Friendship</title>
+      <link>https://blog.bj-yan.top/en/p/note-qin-mi-guan-xi-de-he-xin-shi-you-yi/</link>
+      <pubDate>Fri, 27 Dec 2024 01:38:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/note-qin-mi-guan-xi-de-he-xin-shi-you-yi/</guid>
+      <description>Reading notes on &amp;#39;The Core of Intimate Relationships is Friendship&amp;#39;, discussing the body, friendship, and roles within relationships, while recording personal views on the book&amp;#39;s perspectives regarding artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Notes: 20241104</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20241104/</link>
+      <pubDate>Mon, 04 Nov 2024 00:49:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20241104/</guid>
+      <description>Documenting life on November 4, 2024, sharing discussions on PhD planning and a review of the play &amp;#39;The Suspect Sherlock&amp;#39; at the National Centre for the Performing Arts.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Notes: 20241102</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20241102/</link>
+      <pubDate>Sat, 02 Nov 2024 22:29:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20241102/</guid>
+      <description>Recording recent updates from early November 2024, sharing reflections on blog maintenance, living alone and renting, the thesis proposal and application stages, and thoughts on life in Beijing.</description>
+    </item>
+    
+    <item>
+      <title>Unlocking TikTok Region Switching Without SIM Card Removal</title>
+      <link>https://blog.bj-yan.top/en/p/blog-tiktok-unlock/</link>
+      <pubDate>Mon, 18 Mar 2024 13:30:36 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-tiktok-unlock/</guid>
+      <description>Documenting attempts to use TikTok on iOS without removing the SIM card, including Shadowrocket proxy configuration, downloading and installing older app versions; this method is time-sensitive.</description>
+    </item>
+    
+    <item>
+      <title>Perhaps a 2023 Year-in-Review</title>
+      <link>https://blog.bj-yan.top/en/p/journey-annual-summary-2023/</link>
+      <pubDate>Mon, 12 Feb 2024 10:54:07 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/journey-annual-summary-2023/</guid>
+      <description>Looking back on Xiaobing&amp;#39;s 2023 life, recording movie premieres, music, and daily experiences, sharing memorable moments and personal reflections from the year.</description>
+    </item>
+    
+    <item>
+      <title>The Dirichlet Distribution in Federated Learning: From Probability Vectors to Non-IID Data Partitioning</title>
+      <link>https://blog.bj-yan.top/en/p/blog-dirichlet-distribution-in-federated-learning/</link>
+      <pubDate>Tue, 22 Aug 2023 17:58:41 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-dirichlet-distribution-in-federated-learning/</guid>
+      <description>Introduces the definition, concentration parameters, and statistical properties of the Dirichlet distribution, distinguishes between two directions of federated data partitioning, and provides a reproducible, complete NumPy implementation along with methods for experimental verification.</description>
+    </item>
+    
+    <item>
+      <title>Efficiency Analysis in Distributed Machine Learning</title>
+      <link>https://blog.bj-yan.top/en/p/blog-efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>Analyzing the stochastic runtime of synchronous, asynchronous, and K-worker SGD, and discussing the time to reach target accuracy and parallel speedup limits in conjunction with convergence bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Federated Learning (Part 5)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>Deriving non-convex stationary point bounds and strongly convex error bounds under full participation from FedAvg&amp;#39;s local updates, distinguishing gradient noise, client drift, and sampling error, while discussing partial participation and heterogeneity corrections.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Distributed Machine Learning (Part 4)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>Deriving strong convexity convergence bounds for synchronous, asynchronous, and K-Async SGD, clarifying assumptions of independent sampling, conditional unbiasedness, gradient staleness, and freshness probability.</description>
+    </item>
+    
+    <item>
+      <title>Information Theory in Privacy-Preserving Computation: How to Understand and Measure Information Leakage</title>
+      <link>https://blog.bj-yan.top/en/p/blog-information-theory-for-privacy/</link>
+      <pubDate>Fri, 28 Jul 2023 14:55:49 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-information-theory-for-privacy/</guid>
+      <description>Starting from the attacker&amp;#39;s observations and auxiliary information, this article introduces entropy, conditional mutual information, the data processing inequality, and Fano&amp;#39;s inequality. It also uses randomized response to illustrate the connections and distinctions between information-theoretic privacy and differential privacy.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Leakage in Deep Learning: What Models, Predictions, and Gradients Reveal</title>
+      <link>https://blog.bj-yan.top/en/p/blog-privacy-leakage-in-deep-learning/</link>
+      <pubDate>Fri, 28 Jul 2023 09:54:50 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-privacy-leakage-in-deep-learning/</guid>
+      <description>Reviewing membership inference, attribute inference, model inversion, and training data extraction; deriving the recoverability of single-sample gradients; and discussing the applicability boundaries of federated learning, risk assessment, and various privacy-preserving techniques.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 3)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>Deriving strong convex error bounds and non-convex stationary point bounds for mini-batch SGD under assumptions of conditionally unbiased gradients and bounded variance, explaining the impact of step size and noise.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 2)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>Derive first-order method convergence bounds under smooth/non-smooth and convex/non-convex conditions, clarifying step sizes, output points, and iteration complexity.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 1)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>Unify definitions and assumptions regarding convexity, strong convexity, smoothness, and stochastic gradients, and derive inequalities commonly used in convergence analysis.</description>
+    </item>
+    
+    <item>
+      <title>How to Get the Top K of WeChat Red Envelopes</title>
+      <link>https://blog.bj-yan.top/en/p/blog-the-top-k-of-wechat-red-envelopes/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-the-top-k-of-wechat-red-envelopes/</guid>
+      <description>Simulating WeChat red envelope distribution with Python to compare the probability of entering the Top K based on different claiming orders, presenting simulation results while explaining model assumptions and limitations.</description>
+    </item>
+    
+    <item>
+      <title>Managing References and Notes with Zotero and Notion</title>
+      <link>https://blog.bj-yan.top/en/p/blog-using-zotero-and-notion-manage-your-papers-and-notes/</link>
+      <pubDate>Wed, 28 Jun 2023 11:24:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-using-zotero-and-notion-manage-your-papers-and-notes/</guid>
+      <description>Link your Zotero library with Notion notes using Notero. This guide covers Notion integration setup, database configuration, and plugin installation, along with a FAQ section.</description>
+    </item>
+    
+    <item>
+      <title>We Are Always Trapped in Our Own Cognition</title>
+      <link>https://blog.bj-yan.top/en/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</link>
+      <pubDate>Tue, 13 Jun 2023 22:08:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</guid>
+      <description>Starting from a discussion on Python parallelization tools, reflecting on how existing knowledge and tool habits influence choices, as well as the motivation and cognitive boundaries people face when attempting new things.</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Federated Learning Simulation with MPI</title>
+      <link>https://blog.bj-yan.top/en/p/blog-accelerating-federated-learning-simulation-using-mpi/</link>
+      <pubDate>Tue, 21 Mar 2023 12:41:13 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-accelerating-federated-learning-simulation-using-mpi/</guid>
+      <description>Building a federated learning simulator using mpi4py and PyTorch, covering server-client architecture, MPI execution flow, multi-process execution, and experimental performance.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Notes: Diamond Rank</title>
+      <link>https://blog.bj-yan.top/en/p/misc-games-rank-diamond/</link>
+      <pubDate>Tue, 21 Mar 2023 12:12:17 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-games-rank-diamond/</guid>
+      <description>A record of my journey to Diamond in Apex Legends solo queue, reviewing seasonal ranking, time invested, personal gaming history, and feelings after achieving the goal.</description>
+    </item>
+    
+    <item>
+      <title>Guide to Using the GPT-3.5 Turbo API: Parameters and Code Examples (2023)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-advantage-usage-for-gpt-3-5-turbo/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-advantage-usage-for-gpt-3-5-turbo/</guid>
+      <description>Documents the usage of the GPT-3.5 Turbo API in 2023, covering streaming output, temperature, top_p, and other parameters along with Python examples; content is time-sensitive.</description>
+    </item>
+    
+    <item>
+      <title>Useless Tips for GitHub</title>
+      <link>https://blog.bj-yan.top/en/p/blog-github-useless-tips/</link>
+      <pubDate>Thu, 02 Mar 2023 17:05:24 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-github-useless-tips/</guid>
+      <description>A collection of GitHub usage tips, including profile repositories, custom domains for GitHub Pages, write permissions for Actions, student benefits, and Emoji.</description>
+    </item>
+    
+    <item>
+      <title>ezkfg v0.1.1 Release: Configuration Loading and Saving Updates</title>
+      <link>https://blog.bj-yan.top/en/p/blog-public-release-of-ezkfg-v011/</link>
+      <pubDate>Wed, 01 Mar 2023 22:05:34 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-public-release-of-ezkfg-v011/</guid>
+      <description>Records the updates for the Python configuration tool ezkfg v0.1.1, introducing changes to the configuration loading interface, comparison behavior, and save functionality, along with a link to version differences.</description>
+    </item>
+    
+    <item>
+      <title>Will AI Replace Artists&#39; Jobs?</title>
+      <link>https://blog.bj-yan.top/en/p/blog-will-ai-replace-the-artists/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-will-ai-replace-the-artists/</guid>
+      <description>Combining the development of diffusion models and AI art, this article discusses which tasks in artistic creation might be automated, along with the capabilities, limitations, and the creator&amp;#39;s technical role in image generation.</description>
+    </item>
+    
+    <item>
+      <title>Trial Run of Diffusion Models</title>
+      <link>https://blog.bj-yan.top/en/p/blog-diffusion-model-trial/</link>
+      <pubDate>Sun, 11 Sep 2022 23:03:04 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-diffusion-model-trial/</guid>
+      <description>Reviewing the basic concepts and development history of diffusion models, and recording trial experiences and generation results of image generation models such as Stable Diffusion and DALL·E.</description>
+    </item>
+    
+    <item>
+      <title>A Brief Look at the Open-Source Environment in China</title>
+      <link>https://blog.bj-yan.top/en/p/blog-talk-about-the-open-source-environment-in-china/</link>
+      <pubDate>Sun, 11 Sep 2022 13:44:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-talk-about-the-open-source-environment-in-china/</guid>
+      <description>Discussing the domestic open-source environment from the perspective of individual developers and users, sharing views on the meaning of open source, project quality, community platforms, and participation experiences.</description>
+    </item>
+    
+    <item>
+      <title>UCAS Course Schedule Solution</title>
+      <link>https://blog.bj-yan.top/en/p/blog-ucas-course-schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-ucas-course-schedule/</guid>
+      <description>A guide to exporting UCAS course schedules as ICS files and importing them into calendars, covering the course website, Tampermonkey plugins, Wakeup app, and solutions for iOS and Windows.</description>
+    </item>
+    
+    <item>
+      <title>UCAS Bypasses Campus Network Data Billing Using IPv6</title>
+      <link>https://blog.bj-yan.top/en/p/blog-ucas-ipv6-bypass/</link>
+      <pubDate>Sun, 21 Aug 2022 09:44:53 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-ucas-ipv6-bypass/</guid>
+      <description>Documents the practice of using IPv6 proxies in the UCAS campus network environment, covering IPv6 activation, proxy forwarding, DNS64 configuration, multi-device setup, and usage precautions.</description>
+    </item>
+    
+    <item>
+      <title>Recent Reflections - 20220706</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20220706/</link>
+      <pubDate>Wed, 06 Jul 2022 20:44:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20220706/</guid>
+      <description>Recording thoughts on life after graduation in 2022, discussing confusion and reflection regarding friendships, future choices, knowledge organization, family dynamics, and project practice.</description>
+    </item>
+    
+    <item>
+      <title>Farewell, My Little Island</title>
+      <link>https://blog.bj-yan.top/en/p/misc-good-bye-hainan/</link>
+      <pubDate>Mon, 13 Jun 2022 01:03:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-good-bye-hainan/</guid>
+      <description>Reflecting on four years at Hainan University as I depart, this piece records the island&amp;#39;s climate, friendships, and daily moments, sharing the reluctance and farewell of graduation.</description>
+    </item>
+    
+    <item>
+      <title>Test-Time Augmentation and Model Attacks/Defenses: Starting from hCaptcha Image Noise</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</guid>
+      <description>Discussing test-time augmentation, image denoising, and model attack/defense strategies in the context of hCaptcha image noise, while reflecting on the limitations of CAPTCHAs regarding robustness and user experience.</description>
+    </item>
+    
+    <item>
+      <title>ezkfg: Design and Implementation of a Python Configuration Tool</title>
+      <link>https://blog.bj-yan.top/en/p/blog-project-ezkfg/</link>
+      <pubDate>Tue, 17 May 2022 00:48:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-project-ezkfg/</guid>
+      <description>Introduces the design and implementation of the Python configuration tool ezkfg, compares usage methods of argparse, configuration classes, and configuration files, and outlines project requirements and future plans.</description>
+    </item>
+    
+    <item>
+      <title>Choosing Schedule Management Software and Reflections on Personal Workflows</title>
+      <link>https://blog.bj-yan.top/en/p/blog-some-thoughts-on-schedule-management-software/</link>
+      <pubDate>Thu, 12 May 2022 01:01:20 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-some-thoughts-on-schedule-management-software/</guid>
+      <description>Reflecting on experiences with tools like Notes, TickTick, Sticky Notes, and Feishu, discussing recurring tasks, cross-device operations, and personal workflow needs.</description>
+    </item>
+    
+    <item>
+      <title>Taichi Voxel Challenge 2022 - PVZ</title>
+      <link>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022-pvz/</link>
+      <pubDate>Wed, 11 May 2022 16:41:22 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022-pvz/</guid>
+      <description>Sharing my Taichi Voxel Challenge 2022 Plants vs. Zombies voxel creation, breaking down the Peashooter structure, and documenting the modeling approach, code, and issues encountered during production.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Seaplane Recognition: Model Training and Testing</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</guid>
+      <description>Records the training and testing practices for the hCaptcha seaplane recognition task, discussing sample annotation, overfitting issues, and the organization of the model training workflow.</description>
+    </item>
+    
+    <item>
+      <title>Taichi Voxel Challenge 2022</title>
+      <link>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022/</link>
+      <pubDate>Sun, 01 May 2022 15:42:26 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022/</guid>
+      <description>Documenting my journey participating in the Taichi Voxel Challenge 2022, showcasing my voxel Pac-Man and castle creations, and sharing insights on modeling implementation, parameter tuning, and my overall experience in the competition.</description>
+    </item>
+    
+    <item>
+      <title>What Will the Next Generation of CAPTCHA Look Like? A History of CAPTCHA and the Human-Machine Arms Race</title>
+      <link>https://blog.bj-yan.top/en/p/blog-where-is-the-next-generation-of-captcha/</link>
+      <pubDate>Sun, 01 May 2022 01:53:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-where-is-the-next-generation-of-captcha/</guid>
+      <description>Reviewing the evolution of CAPTCHA from character recognition to image recognition, discussing human-machine confrontation, user experience, and potential directions for the next generation of CAPTCHA in the context of hCaptcha practices.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Leaf Elephant Recognition: Data and Model Practice</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>Analyze the data and visual characteristics of the hCaptcha leaf elephant image recognition task, discussing sample classification, model training, and identification challenges caused by similar images.</description>
+    </item>
+    
+    <item>
+      <title>The Helplessness of baseIine - My Journey in CodeCraft 2022</title>
+      <link>https://blog.bj-yan.top/en/p/blog-codecraft-2022/</link>
+      <pubDate>Tue, 29 Mar 2022 19:01:47 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-codecraft-2022/</guid>
+      <description>Documenting my experience participating in Huawei CodeCraft 2022, reviewing the bandwidth allocation and 95th percentile billing problem, pitfalls encountered in the practice contest, attempts in the preliminary round, and team reflections.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Left-Flying Airplane Recognition: Image Processing Approach</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-sky-left-airplane/</guid>
+      <description>Analyze the hCaptcha task of identifying left-flying airplanes, introducing an implementation approach that uses background complexity, image color, and directional features to determine if an airplane is in the sky.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Vertical River Recognition: Image Features and Implementation Approach</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-vertical-river/</guid>
+      <description>Analyze the hCaptcha vertical river image task, document observations of image features, recognition methods, and solution iterations, and discuss the impact of generated images on CAPTCHA recognition.</description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Compiling and Distributing Resumes with GitHub Actions</title>
+      <link>https://blog.bj-yan.top/en/p/blog-github-actions-cv/</link>
+      <pubDate>Sat, 19 Feb 2022 18:12:54 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-github-actions-cv/</guid>
+      <description>Automatically compile LaTeX resumes and distribute PDFs using GitHub Actions. This article covers workflows, cross-repository pushes, SSH Deploy Key configuration, and common authentication pitfalls.</description>
+    </item>
+    
+    <item>
+      <title>Common NFT Websites</title>
+      <link>https://blog.bj-yan.top/en/p/blog-nft-common-site/</link>
+      <pubDate>Tue, 15 Feb 2022 09:58:14 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-nft-common-site/</guid>
+      <description>A collection of NFT trading platforms, news updates, galleries, and tools I use and follow while writing; includes personal impressions. Platform status and service information are time-sensitive.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Pixel Art: Research, Datasets, and Tools</title>
+      <link>https://blog.bj-yan.top/en/p/blog-deep-learning-for-pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-deep-learning-for-pixel-art/</guid>
+      <description>Organizing the stylistic features, galleries, datasets, and drawing tools of pixel art, introducing research and projects on deep learning in pixelization, de-pixelization, and pixel art generation.</description>
+    </item>
+    
+    <item>
+      <title>First Experience with Bigverse</title>
+      <link>https://blog.bj-yan.top/en/p/misc-bigverse-first-experience/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-bigverse-first-experience/</guid>
+      <description>Documenting my first-time experience using the Bigverse digital art platform, sharing my pixel art creation process and personal impressions of the website interface and NFT minting workflow.</description>
+    </item>
+    
+    <item>
+      <title>Hainan University Course Guide Sharing Initiative</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hainanu-course-comments/</link>
+      <pubDate>Thu, 28 Oct 2021 00:38:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hainanu-course-comments/</guid>
+      <description>Introduces the origins of the Hainan University Course Guide Sharing Initiative, the deployment of the MkDocs website and comment system, as well as the promotional feedback and maintenance ideas on the first day of launch.</description>
+    </item>
+    
+    <item>
+      <title>Investigating Things to Extend Knowledge - Linear Algebra</title>
+      <link>https://blog.bj-yan.top/en/p/blog-linear-algerbra-ng/</link>
+      <pubDate>Thu, 14 Oct 2021 21:53:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-linear-algerbra-ng/</guid>
+      <description>Drawing from 3Blue1Brown&amp;#39;s &amp;#39;Essence of Linear Algebra&amp;#39;, this post explores matrix multiplication, determinants, inverse matrices, and rank through the lens of geometric transformations, documenting my personal insights into learning linear algebra.</description>
+    </item>
+    
+    <item>
+      <title>The Essence of the World is Mathematics</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20211013/</link>
+      <pubDate>Wed, 13 Oct 2021 19:43:15 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20211013/</guid>
+      <description>Starting from optimizing books and re-deriving SGD, this records reflections on mathematics, matrix calculus, and learning methods, along with daily observations on campus.</description>
+    </item>
+    
+    <item>
+      <title>My First Time Calling 120 &amp; My First Ride in an Ambulance</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20211006/</link>
+      <pubDate>Wed, 06 Oct 2021 08:55:36 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20211006/</guid>
+      <description>A record of calling 120 after my roommate fell ill, waiting for emergency services, and accompanying them in an ambulance, sharing a personal anecdote from campus life.</description>
+    </item>
+    
+    <item>
+      <title>A Long Journey of Learning</title>
+      <link>https://blog.bj-yan.top/en/p/journey-man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/journey-man-man-qiu-xue-lu/</guid>
+      <description>Reflecting on my journey from high school informatics competitions to Hainan University, documenting my studies, projects, and growth during university, as well as the emotional process of the recommendation for postgraduate exemption phase.</description>
+    </item>
+    
+    <item>
+      <title>2021 Mathematical Modeling</title>
+      <link>https://blog.bj-yan.top/en/p/blog-mum-2021/</link>
+      <pubDate>Thu, 09 Sep 2021 23:41:44 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-mum-2021/</guid>
+      <description>Organizing the approach for Problem C of the 2021 National College Student Mathematical Modeling Competition, discussing modeling strategies for raw material procurement, supplier selection, and transportation scheduling for a manufacturing enterprise.</description>
+    </item>
+    
+    <item>
+      <title>A Day Trip to My First IELTS Exam</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 13:03:45 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20210724/</guid>
+      <description>Documenting my experience taking the first paper-based IELTS exam at Hainan University in 2021, reviewing the on-site feelings for the Speaking, Listening, Reading, and Writing sections.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blog.bj-yan.top/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/about/</guid>
+      <description>&lt;p&gt;Hello, welcome to this page, thank you for visiting.&lt;/p&gt;
+&lt;p&gt;I am Xiao Bing.&lt;/p&gt;
+&lt;p&gt;An ordinary college student.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt; Energy Thief &amp;amp; Level 4 Chicken Pummeler &lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;I will update some essays or knowledge sharing here, hoping it helps you.&lt;/p&gt;
+&lt;p&gt;I quite like a quote from Changzi:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Just remember me casually, then forget me.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My academic homepage is here: &lt;a href=&#34;https://www.bj-yan.top/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also, my resume &lt;a href=&#34;https://yyyanbj.github.io/pdf/cv_cn.pdf&#34;&gt;[ZH]&lt;/a&gt; &lt;a href=&#34;https://yyyanbj.github.io/pdf/cv_en.pdf&#34;&gt;[EN]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Of course, you can also leave a message here; I will check it from time to time. You can also directly add my WeChat to discuss with me.&lt;/p&gt;</description>
+    </item>
+    
+    
+    <item>
+      <title>Friends</title>
+      <link>https://blog.bj-yan.top/en/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/friends/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Occasionally I check in on my friends&amp;rsquo; friend links. If some old friends&amp;rsquo; domains or websites have become invalid, they may be temporarily removed. Please leave a message with your new site information~ (The following list is not ranked)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class=&#34;friend-link-div&#34;&gt;
+    &lt;a href=&#34;https://yuzhang.wang/&#34; title=&#34;YuZhangWang 的领域&#34; class=&#34;friend-link&#34; target=&#34;_blank&#34; rel=&#34;friend noopener noreferrer&#34;&gt;
+
+    &lt;div class=&#34;friend-link-avatar&#34;&gt;
+        &lt;img src=&#34;https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png&#34; class=&#34;friend-avatar&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;YuZhangWang 的领域&#34; onerror=&#34;this.onerror=null;this.src=&#39;https://blog.bj-yan.top/friend_avator/default.svg&#39;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;friend-link-info&#34;&gt;
+        &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;i class=&#34;friend-name&#34;&gt;YuZhangWang 的领域&lt;/i&gt;
+        &lt;p class=&#34;friend-bio&#34;&gt;PLUSULTRA!&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;friend-link-div&#34;&gt;
+    &lt;a href=&#34;https://russellwzr.github.io/&#34; title=&#34;Russell&#34; class=&#34;friend-link&#34; target=&#34;_blank&#34; rel=&#34;friend noopener noreferrer&#34;&gt;
+
+    &lt;div class=&#34;friend-link-avatar&#34;&gt;
+        &lt;img src=&#34;https://blog.bj-yan.top/friend_avator/default.svg&#34; class=&#34;friend-avatar&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;Russell&#34; onerror=&#34;this.onerror=null;this.src=&#39;https://blog.bj-yan.top/friend_avator/default.svg&#39;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;friend-link-info&#34;&gt;
+        &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;i class=&#34;friend-name&#34;&gt;Russell&lt;/i&gt;
+        &lt;p class=&#34;friend-bio&#34;&gt;Keep eating codes!&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;friend-link-div&#34;&gt;
+    &lt;a href=&#34;https://bosswnx.xyz/&#34; title=&#34;Nelson Boss&#34; class=&#34;friend-link&#34; target=&#34;_blank&#34; rel=&#34;friend noopener noreferrer&#34;&gt;
+
+    &lt;div class=&#34;friend-link-avatar&#34;&gt;
+        &lt;img src=&#34;https://avatars.githubusercontent.com/u/45135497?s=128&amp;amp;v=4&#34; class=&#34;friend-avatar&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;Nelson Boss&#34; onerror=&#34;this.onerror=null;this.src=&#39;https://blog.bj-yan.top/friend_avator/default.svg&#39;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;friend-link-info&#34;&gt;
+        &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;i class=&#34;friend-name&#34;&gt;Nelson Boss&lt;/i&gt;
+        &lt;p class=&#34;friend-bio&#34;&gt;Swim until the sea turns blue&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;friend-link-div&#34;&gt;
+    &lt;a href=&#34;https://www.junyi.dev/&#34; title=&#34;Junyi&amp;#39;s Lab&#34; class=&#34;friend-link&#34; target=&#34;_blank&#34; rel=&#34;friend noopener noreferrer&#34;&gt;
+
+    &lt;div class=&#34;friend-link-avatar&#34;&gt;
+        &lt;img src=&#34;https://avatars.githubusercontent.com/u/14367694&#34; class=&#34;friend-avatar&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;Junyi&amp;#39;s Lab&#34; onerror=&#34;this.onerror=null;this.src=&#39;https://blog.bj-yan.top/friend_avator/default.svg&#39;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;friend-link-info&#34;&gt;
+        &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;i class=&#34;friend-name&#34;&gt;Junyi&amp;#39;s Lab&lt;/i&gt;
+        &lt;p class=&#34;friend-bio&#34;&gt;A place for self-amusement&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

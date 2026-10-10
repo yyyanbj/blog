@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Beer on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/beer/</link>
+    <description>Recent content in Beer on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 04 Jun 2025 00:43:10 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>精酿啤酒</title>
+      <link>https://blog.bj-yan.top/p/blog-craft-beer/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-craft-beer/</guid>
+      <description>从麦芽、酒花和酵母讲起，介绍 ABV、IBU 等常见术语，以及拉格、小麦、IPA、世涛和酸啤等风格，整理精酿啤酒的点单与品饮入门方法。</description>
+    </item>
+    
+  </channel>
+</rss>

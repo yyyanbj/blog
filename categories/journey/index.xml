@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>journey on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/categories/journey/</link>
+    <description>Recent content in journey on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/categories/journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>或许是 2024 年终总结</title>
+      <link>https://blog.bj-yan.top/p/journey-annual-summary-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-annual-summary-2024/</guid>
+      <description>小冰的 2024 年终总结，回顾朋友、自由与焦虑，记录电影、阅读、音乐、游戏和日常生活，并写下对 2025 年的期待。</description>
+    </item>
+    
+    <item>
+      <title>或许是 2023 年度总结</title>
+      <link>https://blog.bj-yan.top/p/journey-annual-summary-2023/</link>
+      <pubDate>Mon, 12 Feb 2024 10:54:07 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-annual-summary-2023/</guid>
+      <description>回顾小冰的 2023 年生活，记录电影首映、音乐与日常体验，分享这一年值得记下的经历和个人感想。</description>
+    </item>
+    
+    <item>
+      <title>漫漫求学路</title>
+      <link>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</guid>
+      <description>回顾从高中信息学竞赛到海南大学的求学经历，记录大学期间的学习、项目与成长，以及推免阶段的心路历程。</description>
+    </item>
+    
+  </channel>
+</rss>

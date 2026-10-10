@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/</link>
+    <description>Recent content in Tags on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beer</title>
+      <link>https://blog.bj-yan.top/tags/beer/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craft-Beer</title>
+      <link>https://blog.bj-yan.top/tags/craft-beer/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/craft-beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literature</title>
+      <link>https://blog.bj-yan.top/tags/literature/</link>
+      <pubDate>Tue, 04 Feb 2025 16:00:33 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>https://blog.bj-yan.top/tags/summary/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships</title>
+      <link>https://blog.bj-yan.top/tags/relationships/</link>
+      <pubDate>Fri, 27 Dec 2024 01:38:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://blog.bj-yan.top/tags/life/</link>
+      <pubDate>Mon, 04 Nov 2024 00:49:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theater</title>
+      <link>https://blog.bj-yan.top/tags/theater/</link>
+      <pubDate>Mon, 04 Nov 2024 00:49:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/theater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiktok</title>
+      <link>https://blog.bj-yan.top/tags/tiktok/</link>
+      <pubDate>Mon, 18 Mar 2024 13:30:36 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/tiktok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated-Learning</title>
+      <link>https://blog.bj-yan.top/tags/federated-learning/</link>
+      <pubDate>Tue, 22 Aug 2023 17:58:41 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-Learning</title>
+      <link>https://blog.bj-yan.top/tags/deep-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed-Machine-Learning</title>
+      <link>https://blog.bj-yan.top/tags/distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/distributed-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency</title>
+      <link>https://blog.bj-yan.top/tags/efficiency/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning</title>
+      <link>https://blog.bj-yan.top/tags/machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence-Analysis</title>
+      <link>https://blog.bj-yan.top/tags/convergence-analysis/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/convergence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://blog.bj-yan.top/tags/optimization/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Theory</title>
+      <link>https://blog.bj-yan.top/tags/information-theory/</link>
+      <pubDate>Fri, 28 Jul 2023 14:55:49 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/information-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://blog.bj-yan.top/tags/privacy/</link>
+      <pubDate>Fri, 28 Jul 2023 14:55:49 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://blog.bj-yan.top/tags/python/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://blog.bj-yan.top/tags/simulation/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wechat</title>
+      <link>https://blog.bj-yan.top/tags/wechat/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/wechat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notion</title>
+      <link>https://blog.bj-yan.top/tags/notion/</link>
+      <pubDate>Wed, 28 Jun 2023 11:24:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/notion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zotero</title>
+      <link>https://blog.bj-yan.top/tags/zotero/</link>
+      <pubDate>Wed, 28 Jun 2023 11:24:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/zotero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://blog.bj-yan.top/tags/thoughts/</link>
+      <pubDate>Tue, 13 Jun 2023 22:08:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mpi</title>
+      <link>https://blog.bj-yan.top/tags/mpi/</link>
+      <pubDate>Tue, 21 Mar 2023 12:41:13 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/mpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel-Computing</title>
+      <link>https://blog.bj-yan.top/tags/parallel-computing/</link>
+      <pubDate>Tue, 21 Mar 2023 12:41:13 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apex-Legends</title>
+      <link>https://blog.bj-yan.top/tags/apex-legends/</link>
+      <pubDate>Tue, 21 Mar 2023 12:12:17 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/apex-legends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://blog.bj-yan.top/tags/games/</link>
+      <pubDate>Tue, 21 Mar 2023 12:12:17 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aigc</title>
+      <link>https://blog.bj-yan.top/tags/aigc/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/aigc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatgpt</title>
+      <link>https://blog.bj-yan.top/tags/chatgpt/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gpt</title>
+      <link>https://blog.bj-yan.top/tags/gpt/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openai</title>
+      <link>https://blog.bj-yan.top/tags/openai/</link>
+      <pubDate>Thu, 02 Mar 2023 19:19:58 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion-Model</title>
+      <link>https://blog.bj-yan.top/tags/diffusion-model/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/diffusion-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital-Art</title>
+      <link>https://blog.bj-yan.top/tags/digital-art/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/digital-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://blog.bj-yan.top/tags/open-source/</link>
+      <pubDate>Sun, 11 Sep 2022 13:44:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course</title>
+      <link>https://blog.bj-yan.top/tags/course/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://blog.bj-yan.top/tags/schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipv6</title>
+      <link>https://blog.bj-yan.top/tags/ipv6/</link>
+      <pubDate>Sun, 21 Aug 2022 09:44:53 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/ipv6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Augmentation</title>
+      <link>https://blog.bj-yan.top/tags/data-augmentation/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/data-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hcaptcha</title>
+      <link>https://blog.bj-yan.top/tags/hcaptcha/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/hcaptcha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Attack</title>
+      <link>https://blog.bj-yan.top/tags/model-attack/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/model-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Defense</title>
+      <link>https://blog.bj-yan.top/tags/model-defense/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/model-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test-Time-Augmentation</title>
+      <link>https://blog.bj-yan.top/tags/test-time-augmentation/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/test-time-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://blog.bj-yan.top/tags/productivity/</link>
+      <pubDate>Thu, 12 May 2022 01:01:20 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://blog.bj-yan.top/tags/art/</link>
+      <pubDate>Wed, 11 May 2022 16:41:22 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taichi</title>
+      <link>https://blog.bj-yan.top/tags/taichi/</link>
+      <pubDate>Wed, 11 May 2022 16:41:22 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/taichi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voxel</title>
+      <link>https://blog.bj-yan.top/tags/voxel/</link>
+      <pubDate>Wed, 11 May 2022 16:41:22 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/voxel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Captcha</title>
+      <link>https://blog.bj-yan.top/tags/captcha/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/captcha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Classification</title>
+      <link>https://blog.bj-yan.top/tags/image-classification/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://blog.bj-yan.top/tags/algorithms/</link>
+      <pubDate>Tue, 29 Mar 2022 19:01:47 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codecraft</title>
+      <link>https://blog.bj-yan.top/tags/codecraft/</link>
+      <pubDate>Tue, 29 Mar 2022 19:01:47 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/codecraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gan</title>
+      <link>https://blog.bj-yan.top/tags/gan/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github-Actions</title>
+      <link>https://blog.bj-yan.top/tags/github-actions/</link>
+      <pubDate>Sat, 19 Feb 2022 18:12:54 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nft</title>
+      <link>https://blog.bj-yan.top/tags/nft/</link>
+      <pubDate>Tue, 15 Feb 2022 09:58:14 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bigverse</title>
+      <link>https://blog.bj-yan.top/tags/bigverse/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/bigverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://blog.bj-yan.top/tags/blockchain/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaverse</title>
+      <link>https://blog.bj-yan.top/tags/metaverse/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/metaverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixel-Art</title>
+      <link>https://blog.bj-yan.top/tags/pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/pixel-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mkdocs</title>
+      <link>https://blog.bj-yan.top/tags/mkdocs/</link>
+      <pubDate>Thu, 28 Oct 2021 00:38:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/mkdocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://blog.bj-yan.top/tags/math/</link>
+      <pubDate>Thu, 14 Oct 2021 21:53:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campus-Life</title>
+      <link>https://blog.bj-yan.top/tags/campus-life/</link>
+      <pubDate>Wed, 06 Oct 2021 08:55:36 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/campus-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical-Modeling</title>
+      <link>https://blog.bj-yan.top/tags/mathematical-modeling/</link>
+      <pubDate>Thu, 09 Sep 2021 23:41:44 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/mathematical-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ielts</title>
+      <link>https://blog.bj-yan.top/tags/ielts/</link>
+      <pubDate>Sat, 24 Jul 2021 13:03:45 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/ielts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ai-in-art</title>
+      <link>https://blog.bj-yan.top/tags/ai-in-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/ai-in-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ezkfg</title>
+      <link>https://blog.bj-yan.top/tags/ezkfg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/ezkfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://blog.bj-yan.top/tags/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hainan-university</title>
+      <link>https://blog.bj-yan.top/tags/hainan-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/hainan-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>institute-of-computing-technology</title>
+      <link>https://blog.bj-yan.top/tags/institute-of-computing-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/institute-of-computing-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linear-algebra</title>
+      <link>https://blog.bj-yan.top/tags/linear-algebra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probability</title>
+      <link>https://blog.bj-yan.top/tags/probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://blog.bj-yan.top/tags/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ucas</title>
+      <link>https://blog.bj-yan.top/tags/ucas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/tags/ucas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

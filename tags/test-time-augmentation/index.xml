@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test-Time-Augmentation on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/test-time-augmentation/</link>
+    <description>Recent content in Test-Time-Augmentation on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 10 Jun 2022 14:28:03 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/test-time-augmentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试时增强与模型攻防：从 hCaptcha 图片加噪谈起</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</guid>
+      <description>结合 hCaptcha 图片加噪讨论测试时增强、图像降噪与模型攻击防御，并思考图形验证码在鲁棒性和用户体验上的局限。</description>
+    </item>
+    
+  </channel>
+</rss>

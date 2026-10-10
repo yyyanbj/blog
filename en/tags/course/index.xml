@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Course on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/course/</link>
+    <description>Recent content in Course on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Aug 2022 22:49:57 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCAS Course Schedule Solution</title>
+      <link>https://blog.bj-yan.top/en/p/blog-ucas-course-schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-ucas-course-schedule/</guid>
+      <description>A guide to exporting UCAS course schedules as ICS files and importing them into calendars, covering the course website, Tampermonkey plugins, Wakeup app, and solutions for iOS and Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

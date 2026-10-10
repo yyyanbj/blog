@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/python/</link>
+    <description>Recent content in Python on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Jul 2023 12:37:21 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Get the Top K of WeChat Red Envelopes</title>
+      <link>https://blog.bj-yan.top/en/p/blog-the-top-k-of-wechat-red-envelopes/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-the-top-k-of-wechat-red-envelopes/</guid>
+      <description>Simulating WeChat red envelope distribution with Python to compare the probability of entering the Top K based on different claiming orders, presenting simulation results while explaining model assumptions and limitations.</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Federated Learning Simulation with MPI</title>
+      <link>https://blog.bj-yan.top/en/p/blog-accelerating-federated-learning-simulation-using-mpi/</link>
+      <pubDate>Tue, 21 Mar 2023 12:41:13 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-accelerating-federated-learning-simulation-using-mpi/</guid>
+      <description>Building a federated learning simulator using mpi4py and PyTorch, covering server-client architecture, MPI execution flow, multi-process execution, and experimental performance.</description>
+    </item>
+    
+    <item>
+      <title>ezkfg v0.1.1 Release: Configuration Loading and Saving Updates</title>
+      <link>https://blog.bj-yan.top/en/p/blog-public-release-of-ezkfg-v011/</link>
+      <pubDate>Wed, 01 Mar 2023 22:05:34 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-public-release-of-ezkfg-v011/</guid>
+      <description>Records the updates for the Python configuration tool ezkfg v0.1.1, introducing changes to the configuration loading interface, comparison behavior, and save functionality, along with a link to version differences.</description>
+    </item>
+    
+    <item>
+      <title>ezkfg: Design and Implementation of a Python Configuration Tool</title>
+      <link>https://blog.bj-yan.top/en/p/blog-project-ezkfg/</link>
+      <pubDate>Tue, 17 May 2022 00:48:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-project-ezkfg/</guid>
+      <description>Introduces the design and implementation of the Python configuration tool ezkfg, compares usage methods of argparse, configuration classes, and configuration files, and outlines project requirements and future plans.</description>
+    </item>
+    
+  </channel>
+</rss>

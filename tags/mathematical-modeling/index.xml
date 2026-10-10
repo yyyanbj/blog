@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mathematical-Modeling on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/mathematical-modeling/</link>
+    <description>Recent content in Mathematical-Modeling on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 09 Sep 2021 23:41:44 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/mathematical-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 数学建模</title>
+      <link>https://blog.bj-yan.top/p/blog-mum-2021/</link>
+      <pubDate>Thu, 09 Sep 2021 23:41:44 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-mum-2021/</guid>
+      <description>整理 2021 年全国大学生数学建模竞赛 C 题思路，讨论生产企业原材料订购、供应商选择与运输安排的建模方案。</description>
+    </item>
+    
+  </channel>
+</rss>

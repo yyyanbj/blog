@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Craft-Beer on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/craft-beer/</link>
+    <description>Recent content in Craft-Beer on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Jun 2025 00:43:10 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/craft-beer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craft Beer</title>
+      <link>https://blog.bj-yan.top/en/p/blog-craft-beer/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-craft-beer/</guid>
+      <description>Starting from malt, hops, and yeast, this guide introduces common terms like ABV and IBU, covers styles such as Lager, Wheat, IPA, Stout, and Sour, and organizes an entry-level approach to ordering and tasting craft beer.</description>
+    </item>
+    
+  </channel>
+</rss>

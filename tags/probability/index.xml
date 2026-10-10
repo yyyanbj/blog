@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>probability on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/probability/</link>
+    <description>Recent content in probability on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联邦学习中的 Dirichlet 分布：从概率向量到 Non-IID 数据划分</title>
+      <link>https://blog.bj-yan.top/p/blog-dirichlet-distribution-in-federated-learning/</link>
+      <pubDate>Tue, 22 Aug 2023 17:58:41 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-dirichlet-distribution-in-federated-learning/</guid>
+      <description>介绍 Dirichlet 分布的定义、浓度参数与统计性质，区分两种联邦数据划分方向，并给出可复现、无遗漏的 NumPy 实现及实验检查方法。</description>
+    </item>
+    
+    <item>
+      <title>如何获得微信红包的 Top K</title>
+      <link>https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/</guid>
+      <description>通过 Python 模拟微信红包分配，比较不同领取顺序进入金额 Top K 的概率，展示模拟结果并说明模型假设与局限。</description>
+    </item>
+    
+  </channel>
+</rss>

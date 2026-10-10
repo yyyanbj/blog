@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gan on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/gan/</link>
+    <description>Recent content in Gan on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 03 Mar 2022 23:34:48 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/gan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hCaptcha 向左飞行飞机识别：图像处理思路</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/</guid>
+      <description>分析 hCaptcha 向左飞行飞机任务，介绍利用背景复杂度、图像颜色与方向特征判断飞机是否在天空中的实现思路。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 垂直河流识别：图像特征与实现思路</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/</guid>
+      <description>分析 hCaptcha 垂直河流图片任务，记录图像特征观察、识别方法与方案迭代，讨论生成图像对验证码识别的影响。</description>
+    </item>
+    
+  </channel>
+</rss>
