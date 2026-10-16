@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>github on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/github/</link>
+    <description>Recent content in github on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 没啥用小技巧</title>
+      <link>https://blog.bj-yan.top/p/blog-github-useless-tips/</link>
+      <pubDate>Thu, 02 Mar 2023 17:05:24 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-github-useless-tips/</guid>
+      <description>整理 GitHub 使用小技巧，包括个人简介仓库、GitHub Pages 自定义域名、Actions 写入权限、学生权益和 Emoji。</description>
+    </item>
+    
+    <item>
+      <title>GitHub Actions 进行简历编译与分发的最佳实践</title>
+      <link>https://blog.bj-yan.top/p/blog-github-actions-cv/</link>
+      <pubDate>Sat, 19 Feb 2022 18:12:54 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-github-actions-cv/</guid>
+      <description>使用 GitHub Actions 自动编译 LaTeX 简历并分发 PDF，介绍工作流、跨仓库推送、SSH Deploy Key 配置及鉴权踩坑。</description>
+    </item>
+    
+  </channel>
+</rss>

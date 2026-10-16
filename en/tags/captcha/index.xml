@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Captcha on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/captcha/</link>
+    <description>Recent content in Captcha on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 May 2022 23:35:46 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/captcha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hCaptcha Seaplane Recognition: Model Training and Testing</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</guid>
+      <description>Records the training and testing practices for the hCaptcha seaplane recognition task, discussing sample annotation, overfitting issues, and the organization of the model training workflow.</description>
+    </item>
+    
+    <item>
+      <title>What Will the Next Generation of CAPTCHA Look Like? A History of CAPTCHA and the Human-Machine Arms Race</title>
+      <link>https://blog.bj-yan.top/en/p/blog-where-is-the-next-generation-of-captcha/</link>
+      <pubDate>Sun, 01 May 2022 01:53:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-where-is-the-next-generation-of-captcha/</guid>
+      <description>Reviewing the evolution of CAPTCHA from character recognition to image recognition, discussing human-machine confrontation, user experience, and potential directions for the next generation of CAPTCHA in the context of hCaptcha practices.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Left-Flying Airplane Recognition: Image Processing Approach</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-sky-left-airplane/</guid>
+      <description>Analyze the hCaptcha task of identifying left-flying airplanes, introducing an implementation approach that uses background complexity, image color, and directional features to determine if an airplane is in the sky.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Vertical River Recognition: Image Features and Implementation Approach</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-vertical-river/</guid>
+      <description>Analyze the hCaptcha vertical river image task, document observations of image features, recognition methods, and solution iterations, and discuss the impact of generated images on CAPTCHA recognition.</description>
+    </item>
+    
+  </channel>
+</rss>

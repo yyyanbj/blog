@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mkdocs on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/mkdocs/</link>
+    <description>Recent content in Mkdocs on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 28 Oct 2021 00:38:18 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/mkdocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>海南大学课程攻略共享计划</title>
+      <link>https://blog.bj-yan.top/p/blog-hainanu-course-comments/</link>
+      <pubDate>Thu, 28 Oct 2021 00:38:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hainanu-course-comments/</guid>
+      <description>介绍海南大学课程攻略共享计划的起因、MkDocs 网站部署与评论系统，以及项目上线第一天的推广反馈和维护想法。</description>
+    </item>
+    
+  </channel>
+</rss>

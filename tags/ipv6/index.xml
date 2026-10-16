@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ipv6 on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/ipv6/</link>
+    <description>Recent content in Ipv6 on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 21 Aug 2022 09:44:53 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCAS 利用 IPv6 绕过校园网流量计费</title>
+      <link>https://blog.bj-yan.top/p/blog-ucas-ipv6-bypass/</link>
+      <pubDate>Sun, 21 Aug 2022 09:44:53 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-ucas-ipv6-bypass/</guid>
+      <description>记录 UCAS 校园网环境下使用 IPv6 代理的实践，介绍 IPv6 开启、代理转发、DNS64 与多终端配置及使用注意事项。</description>
+    </item>
+    
+  </channel>
+</rss>

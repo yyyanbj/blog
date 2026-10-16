@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/categories/</link>
+    <description>Recent content in Categories on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://blog.bj-yan.top/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://blog.bj-yan.top/en/categories/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>essays</title>
+      <link>https://blog.bj-yan.top/en/categories/essays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/categories/essays/</guid>
+      <description>Personal reflections, daily musings, and records of tools, communities, and life.</description>
+    </item>
+    
+    <item>
+      <title>journey</title>
+      <link>https://blog.bj-yan.top/en/categories/journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/categories/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note</title>
+      <link>https://blog.bj-yan.top/en/categories/note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/categories/note/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Image-Classification on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/image-classification/</link>
+    <description>Recent content in Image-Classification on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 May 2022 23:35:46 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hCaptcha Seaplane Recognition: Model Training and Testing</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</guid>
+      <description>Records the training and testing practices for the hCaptcha seaplane recognition task, discussing sample annotation, overfitting issues, and the organization of the model training workflow.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Leaf Elephant Recognition: Data and Model Practice</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>Analyze the data and visual characteristics of the hCaptcha leaf elephant image recognition task, discussing sample classification, model training, and identification challenges caused by similar images.</description>
+    </item>
+    
+  </channel>
+</rss>

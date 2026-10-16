@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linear-algebra on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/linear-algebra/</link>
+    <description>Recent content in linear-algebra on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>格物致知 - 线性代数</title>
+      <link>https://blog.bj-yan.top/p/blog-linear-algerbra-ng/</link>
+      <pubDate>Thu, 14 Oct 2021 21:53:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-linear-algerbra-ng/</guid>
+      <description>结合 3Blue1Brown《线性代数的本质》，从几何变换角度理解矩阵乘法、行列式、逆矩阵与秩，记录线性代数学习体会。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/life/</link>
+    <description>Recent content in Life on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:49:09 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杂记：20241104</title>
+      <link>https://blog.bj-yan.top/p/misc-20241104/</link>
+      <pubDate>Mon, 04 Nov 2024 00:49:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20241104/</guid>
+      <description>记录 2024 年 11 月 4 日的生活，分享博士规划讨论和国家大剧院《嫌疑人福尔摩斯》的观剧体验。</description>
+    </item>
+    
+    <item>
+      <title>杂记：20241102</title>
+      <link>https://blog.bj-yan.top/p/misc-20241102/</link>
+      <pubDate>Sat, 02 Nov 2024 22:29:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20241102/</guid>
+      <description>记录 2024 年 11 月初的近况，分享博客维护、独居与租房、开题和申请阶段的感受，以及对北京生活的思考。</description>
+    </item>
+    
+    <item>
+      <title>我们总是被困在自己的认知中</title>
+      <link>https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</link>
+      <pubDate>Tue, 13 Jun 2023 22:08:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</guid>
+      <description>从一次 Python 并行工具讨论出发，思考已有知识与工具习惯如何影响选择，以及人们尝试新事物的动力和认知边界。</description>
+    </item>
+    
+    <item>
+      <title>近日有感 - 20220706</title>
+      <link>https://blog.bj-yan.top/p/misc-20220706/</link>
+      <pubDate>Wed, 06 Jul 2022 20:44:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20220706/</guid>
+      <description>记录 2022 年毕业后的生活感想，谈朋友、未来选择、知识整理、家庭相处和项目实践中的迷茫与思考。</description>
+    </item>
+    
+    <item>
+      <title>漫漫求学路</title>
+      <link>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/</guid>
+      <description>回顾从高中信息学竞赛到海南大学的求学经历，记录大学期间的学习、项目与成长，以及推免阶段的心路历程。</description>
+    </item>
+    
+  </channel>
+</rss>
