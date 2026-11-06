@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thoughts on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 13 Jun 2023 22:08:30 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我们总是被困在自己的认知中</title>
+      <link>https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</link>
+      <pubDate>Tue, 13 Jun 2023 22:08:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</guid>
+      <description>从一次 Python 并行工具讨论出发，思考已有知识与工具习惯如何影响选择，以及人们尝试新事物的动力和认知边界。</description>
+    </item>
+    
+    <item>
+      <title>近日有感 - 20220706</title>
+      <link>https://blog.bj-yan.top/p/misc-20220706/</link>
+      <pubDate>Wed, 06 Jul 2022 20:44:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20220706/</guid>
+      <description>记录 2022 年毕业后的生活感想，谈朋友、未来选择、知识整理、家庭相处和项目实践中的迷茫与思考。</description>
+    </item>
+    
+    <item>
+      <title>日程管理软件的选择与个人工作流思考</title>
+      <link>https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/</link>
+      <pubDate>Thu, 12 May 2022 01:01:20 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/</guid>
+      <description>回顾备忘录、滴答清单、便签和飞书等日程管理工具的使用经历，讨论循环任务、多端操作与个人工作流需求。</description>
+    </item>
+    
+    <item>
+      <title>世界的本质是数学</title>
+      <link>https://blog.bj-yan.top/p/misc-20211013/</link>
+      <pubDate>Wed, 13 Oct 2021 19:43:15 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20211013/</guid>
+      <description>从阅读优化书籍与重新推导 SGD 出发，记录对数学、矩阵微分和学习方法的思考，以及校园里的日常见闻。</description>
+    </item>
+    
+  </channel>
+</rss>

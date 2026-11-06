@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Metaverse on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/metaverse/</link>
+    <description>Recent content in Metaverse on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 15 Feb 2022 01:19:35 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/metaverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bigverse 初体验</title>
+      <link>https://blog.bj-yan.top/p/misc-bigverse-first-experience/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-bigverse-first-experience/</guid>
+      <description>记录 Bigverse 数字艺术平台的初次使用体验，分享像素画创作以及对网站界面和 NFT 上链流程的个人印象。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hcaptcha on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/hcaptcha/</link>
+    <description>Recent content in Hcaptcha on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jun 2022 14:28:03 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/hcaptcha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test-Time Augmentation and Model Attacks/Defenses: Starting from hCaptcha Image Noise</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/</guid>
+      <description>Discussing test-time augmentation, image denoising, and model attack/defense strategies in the context of hCaptcha image noise, while reflecting on the limitations of CAPTCHAs regarding robustness and user experience.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Seaplane Recognition: Model Training and Testing</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-seaplane/</guid>
+      <description>Records the training and testing practices for the hCaptcha seaplane recognition task, discussing sample annotation, overfitting issues, and the organization of the model training workflow.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Leaf Elephant Recognition: Data and Model Practice</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>Analyze the data and visual characteristics of the hCaptcha leaf elephant image recognition task, discussing sample classification, model training, and identification challenges caused by similar images.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Left-Flying Airplane Recognition: Image Processing Approach</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-sky-left-airplane/</guid>
+      <description>Analyze the hCaptcha task of identifying left-flying airplanes, introducing an implementation approach that uses background complexity, image color, and directional features to determine if an airplane is in the sky.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Vertical River Recognition: Image Features and Implementation Approach</title>
+      <link>https://blog.bj-yan.top/en/p/blog-hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-hcaptcha-vertical-river/</guid>
+      <description>Analyze the hCaptcha vertical river image task, document observations of image features, recognition methods, and solution iterations, and discuss the impact of generated images on CAPTCHA recognition.</description>
+    </item>
+    
+  </channel>
+</rss>

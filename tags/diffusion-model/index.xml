@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Diffusion-Model on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/diffusion-model/</link>
+    <description>Recent content in Diffusion-Model on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 12 Sep 2022 12:01:09 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/diffusion-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 会取代艺术家的工作吗？</title>
+      <link>https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/</guid>
+      <description>结合扩散模型与 AI 绘画的发展，讨论艺术创作中哪些工作可能被自动化，以及图像生成的能力、局限和创作者的技术角色。</description>
+    </item>
+    
+    <item>
+      <title>扩散模型试玩</title>
+      <link>https://blog.bj-yan.top/p/blog-diffusion-model-trial/</link>
+      <pubDate>Sun, 11 Sep 2022 23:03:04 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-diffusion-model-trial/</guid>
+      <description>梳理扩散模型的基本思路与发展历史，记录 Stable Diffusion、DALL·E 等图像生成模型的试玩体验与生成效果。</description>
+    </item>
+    
+  </channel>
+</rss>

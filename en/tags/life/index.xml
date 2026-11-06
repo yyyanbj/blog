@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/life/</link>
+    <description>Recent content in Life on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:49:09 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miscellaneous Notes: 20241104</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20241104/</link>
+      <pubDate>Mon, 04 Nov 2024 00:49:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20241104/</guid>
+      <description>Documenting life on November 4, 2024, sharing discussions on PhD planning and a review of the play &amp;#39;The Suspect Sherlock&amp;#39; at the National Centre for the Performing Arts.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Notes: 20241102</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20241102/</link>
+      <pubDate>Sat, 02 Nov 2024 22:29:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20241102/</guid>
+      <description>Recording recent updates from early November 2024, sharing reflections on blog maintenance, living alone and renting, the thesis proposal and application stages, and thoughts on life in Beijing.</description>
+    </item>
+    
+    <item>
+      <title>We Are Always Trapped in Our Own Cognition</title>
+      <link>https://blog.bj-yan.top/en/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</link>
+      <pubDate>Tue, 13 Jun 2023 22:08:30 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/</guid>
+      <description>Starting from a discussion on Python parallelization tools, reflecting on how existing knowledge and tool habits influence choices, as well as the motivation and cognitive boundaries people face when attempting new things.</description>
+    </item>
+    
+    <item>
+      <title>Recent Reflections - 20220706</title>
+      <link>https://blog.bj-yan.top/en/p/misc-20220706/</link>
+      <pubDate>Wed, 06 Jul 2022 20:44:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/misc-20220706/</guid>
+      <description>Recording thoughts on life after graduation in 2022, discussing confusion and reflection regarding friendships, future choices, knowledge organization, family dynamics, and project practice.</description>
+    </item>
+    
+    <item>
+      <title>A Long Journey of Learning</title>
+      <link>https://blog.bj-yan.top/en/p/journey-man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/journey-man-man-qiu-xue-lu/</guid>
+      <description>Reflecting on my journey from high school informatics competitions to Hainan University, documenting my studies, projects, and growth during university, as well as the emotional process of the recommendation for postgraduate exemption phase.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ai-in-art on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/ai-in-art/</link>
+    <description>Recent content in ai-in-art on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://blog.bj-yan.top/en/tags/ai-in-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will AI Replace Artists&#39; Jobs?</title>
+      <link>https://blog.bj-yan.top/en/p/blog-will-ai-replace-the-artists/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-will-ai-replace-the-artists/</guid>
+      <description>Combining the development of diffusion models and AI art, this article discusses which tasks in artistic creation might be automated, along with the capabilities, limitations, and the creator&amp;#39;s technical role in image generation.</description>
+    </item>
+    
+    <item>
+      <title>Trial Run of Diffusion Models</title>
+      <link>https://blog.bj-yan.top/en/p/blog-diffusion-model-trial/</link>
+      <pubDate>Sun, 11 Sep 2022 23:03:04 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-diffusion-model-trial/</guid>
+      <description>Reviewing the basic concepts and development history of diffusion models, and recording trial experiences and generation results of image generation models such as Stable Diffusion and DALL·E.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Pixel Art: Research, Datasets, and Tools</title>
+      <link>https://blog.bj-yan.top/en/p/blog-deep-learning-for-pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-deep-learning-for-pixel-art/</guid>
+      <description>Organizing the stylistic features, galleries, datasets, and drawing tools of pixel art, introducing research and projects on deep learning in pixelization, de-pixelization, and pixel art generation.</description>
+    </item>
+    
+  </channel>
+</rss>

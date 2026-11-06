@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>note on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/categories/note/</link>
+    <description>Recent content in note on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/categories/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《金阁寺》读后感：善恶、美丑与虚无</title>
+      <link>https://blog.bj-yan.top/p/note-jin-ge-si/</link>
+      <pubDate>Tue, 04 Feb 2025 16:00:33 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/note-jin-ge-si/</guid>
+      <description>阅读三岛由纪夫《金阁寺》后的感想，从沟口的自卑、欲望与毁灭讨论善恶、美丑、虚无和现实之间的关系。</description>
+    </item>
+    
+    <item>
+      <title>亲密关系的核心是友谊</title>
+      <link>https://blog.bj-yan.top/p/note-qin-mi-guan-xi-de-he-xin-shi-you-yi/</link>
+      <pubDate>Fri, 27 Dec 2024 01:38:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/note-qin-mi-guan-xi-de-he-xin-shi-you-yi/</guid>
+      <description>《亲密关系的核心是友谊》读书笔记，讨论身体、友谊与关系中的角色，并记录对书中人工智能观点的个人看法。</description>
+    </item>
+    
+  </channel>
+</rss>

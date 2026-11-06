@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Convergence-Analysis on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/convergence-analysis/</link>
+    <description>Recent content in Convergence-Analysis on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Aug 2023 15:04:00 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/convergence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convergence Analysis in Federated Learning (Part 5)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>Deriving non-convex stationary point bounds and strongly convex error bounds under full participation from FedAvg&amp;#39;s local updates, distinguishing gradient noise, client drift, and sampling error, while discussing partial participation and heterogeneity corrections.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Distributed Machine Learning (Part 4)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>Deriving strong convexity convergence bounds for synchronous, asynchronous, and K-Async SGD, clarifying assumptions of independent sampling, conditional unbiasedness, gradient staleness, and freshness probability.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 3)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>Deriving strong convex error bounds and non-convex stationary point bounds for mini-batch SGD under assumptions of conditionally unbiased gradients and bounded variance, explaining the impact of step size and noise.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 2)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>Derive first-order method convergence bounds under smooth/non-smooth and convex/non-convex conditions, clarifying step sizes, output points, and iteration complexity.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 1)</title>
+      <link>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>Unify definitions and assumptions regarding convexity, strong convexity, smoothness, and stochastic gradients, and derive inequalities commonly used in convergence analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Open-Source on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/open-source/</link>
+    <description>Recent content in Open-Source on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 11 Sep 2022 13:44:15 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>浅谈国内开源社区环境</title>
+      <link>https://blog.bj-yan.top/p/blog-talk-about-the-open-source-environment-in-china/</link>
+      <pubDate>Sun, 11 Sep 2022 13:44:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-talk-about-the-open-source-environment-in-china/</guid>
+      <description>从个人开发者和使用者角度讨论国内开源社区环境，分享对开源含义、项目质量、社区平台及参与体验的看法。</description>
+    </item>
+    
+  </channel>
+</rss>

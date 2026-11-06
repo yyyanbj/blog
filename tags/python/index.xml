@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/python/</link>
+    <description>Recent content in Python on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 08 Jul 2023 12:37:21 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何获得微信红包的 Top K</title>
+      <link>https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/</guid>
+      <description>通过 Python 模拟微信红包分配，比较不同领取顺序进入金额 Top K 的概率，展示模拟结果并说明模型假设与局限。</description>
+    </item>
+    
+    <item>
+      <title>使用 MPI 加速联邦学习的模拟</title>
+      <link>https://blog.bj-yan.top/p/blog-accelerating-federated-learning-simulation-using-mpi/</link>
+      <pubDate>Tue, 21 Mar 2023 12:41:13 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-accelerating-federated-learning-simulation-using-mpi/</guid>
+      <description>使用 mpi4py 和 PyTorch 搭建联邦学习模拟器，介绍服务器与客户端结构、MPI 执行流程、多进程运行方式及实验性能。</description>
+    </item>
+    
+    <item>
+      <title>ezkfg v0.1.1 发布：配置加载与保存更新</title>
+      <link>https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/</link>
+      <pubDate>Wed, 01 Mar 2023 22:05:34 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/</guid>
+      <description>记录 Python 配置工具 ezkfg v0.1.1 的更新，介绍配置加载接口、比较行为及保存功能的调整，并附版本差异链接。</description>
+    </item>
+    
+    <item>
+      <title>ezkfg：Python 配置工具的设计与实现</title>
+      <link>https://blog.bj-yan.top/p/blog-project-ezkfg/</link>
+      <pubDate>Tue, 17 May 2022 00:48:18 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-project-ezkfg/</guid>
+      <description>介绍 Python 配置工具 ezkfg 的设计与实现，对比 argparse、配置类和配置文件的使用方式，整理项目需求与后续计划。</description>
+    </item>
+    
+  </channel>
+</rss>

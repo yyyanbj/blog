@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ucas on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/ucas/</link>
+    <description>Recent content in ucas on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/tags/ucas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杂记：20241102</title>
+      <link>https://blog.bj-yan.top/p/misc-20241102/</link>
+      <pubDate>Sat, 02 Nov 2024 22:29:45 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/misc-20241102/</guid>
+      <description>记录 2024 年 11 月初的近况，分享博客维护、独居与租房、开题和申请阶段的感受，以及对北京生活的思考。</description>
+    </item>
+    
+    <item>
+      <title>UCAS 课程表日程解决方案</title>
+      <link>https://blog.bj-yan.top/p/blog-ucas-course-schedule/</link>
+      <pubDate>Fri, 26 Aug 2022 22:49:57 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-ucas-course-schedule/</guid>
+      <description>整理中国科学院大学课表的 ICS 导出与日历导入方法，介绍课程网站、油猴插件、Wakeup、iOS 和 Windows 的操作方案。</description>
+    </item>
+    
+    <item>
+      <title>UCAS 利用 IPv6 绕过校园网流量计费</title>
+      <link>https://blog.bj-yan.top/p/blog-ucas-ipv6-bypass/</link>
+      <pubDate>Sun, 21 Aug 2022 09:44:53 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-ucas-ipv6-bypass/</guid>
+      <description>记录 UCAS 校园网环境下使用 IPv6 代理的实践，介绍 IPv6 开启、代理转发、DNS64 与多终端配置及使用注意事项。</description>
+    </item>
+    
+  </channel>
+</rss>

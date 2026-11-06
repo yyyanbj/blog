@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Image-Classification on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/image-classification/</link>
+    <description>Recent content in Image-Classification on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 May 2022 23:35:46 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hCaptcha 水上飞机识别：模型训练与测试</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/</guid>
+      <description>记录 hCaptcha 水上飞机识别任务的训练与测试实践，讨论样本标注、过拟合问题及模型训练流程的组织方式。</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha 树叶大象识别：数据与模型实践</title>
+      <link>https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>分析 hCaptcha 树叶大象图片识别任务的数据与视觉特征，讨论样本分类、模型训练和相似图片带来的识别难点。</description>
+    </item>
+    
+  </channel>
+</rss>

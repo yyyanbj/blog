@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Taichi on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/taichi/</link>
+    <description>Recent content in Taichi on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 May 2022 16:41:22 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/taichi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taichi Voxel Challenge 2022 - PVZ</title>
+      <link>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022-pvz/</link>
+      <pubDate>Wed, 11 May 2022 16:41:22 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022-pvz/</guid>
+      <description>Sharing my Taichi Voxel Challenge 2022 Plants vs. Zombies voxel creation, breaking down the Peashooter structure, and documenting the modeling approach, code, and issues encountered during production.</description>
+    </item>
+    
+    <item>
+      <title>Taichi Voxel Challenge 2022</title>
+      <link>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022/</link>
+      <pubDate>Sun, 01 May 2022 15:42:26 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/blog-taichi-voxel-challenge-2022/</guid>
+      <description>Documenting my journey participating in the Taichi Voxel Challenge 2022, showcasing my voxel Pac-Man and castle creations, and sharing insights on modeling implementation, parameter tuning, and my overall experience in the competition.</description>
+    </item>
+    
+  </channel>
+</rss>

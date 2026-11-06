@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Github-Actions on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/github-actions/</link>
+    <description>Recent content in Github-Actions on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Feb 2022 18:12:54 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Actions 进行简历编译与分发的最佳实践</title>
+      <link>https://blog.bj-yan.top/p/blog-github-actions-cv/</link>
+      <pubDate>Sat, 19 Feb 2022 18:12:54 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/blog-github-actions-cv/</guid>
+      <description>使用 GitHub Actions 自动编译 LaTeX 简历并分发 PDF，介绍工作流、跨仓库推送、SSH Deploy Key 配置及鉴权踩坑。</description>
+    </item>
+    
+  </channel>
+</rss>
