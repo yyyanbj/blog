@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/series/</link>
+    <description>Recent content in Series on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convergence Analysis</title>
+      <link>https://blog.bj-yan.top/series/convergence-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/series/convergence-analysis/</guid>
+      <description>A series on convergence analysis for optimization, distributed learning, and federated learning.</description>
+    </item>
+    
+    <item>
+      <title>Research Journey</title>
+      <link>https://blog.bj-yan.top/series/research-journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/series/research-journey/</guid>
+      <description>Personal experiences in learning and research.</description>
+    </item>
+    
+  </channel>
+</rss>

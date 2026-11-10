@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/</link>
+    <description>Recent content on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Nov 2026 03:53:31 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>从 FedAvg 的本地更新推导全参与模型下的非凸驻点界与强凸误差界，区分梯度噪声、客户端漂移和采样误差，并讨论部分参与与异质性修正。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>推导同步、异步及 K-Async SGD 的强凸收敛界，明确独立采样、条件无偏、梯度滞后与新鲜概率假设。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>在条件无偏和方差有界假设下推导 mini-batch SGD 的强凸误差界与非凸驻点界，说明步长和噪声的影响。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>推导光滑与非光滑、凸与非凸条件下的一阶方法收敛界，明确步长、输出点及迭代复杂度。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>统一凸性、强凸性、光滑性与随机梯度的定义和假设，并推导收敛性分析常用的不等式。</description>
+    </item>
+    
+    <item>
+      <title>漫漫求学路</title>
+      <link>https://blog.bj-yan.top/p/man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/man-man-qiu-xue-lu/</guid>
+      <description>回顾从高中信息学竞赛到海南大学的求学经历，记录大学期间的学习、项目与成长，以及推免阶段的心路历程。</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blog.bj-yan.top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/about/</guid>
+      <description>&lt;p&gt;Hello，欢迎你点开这个界面，感谢来访。&lt;/p&gt;
+&lt;p&gt;我是小冰。&lt;/p&gt;
+&lt;p&gt;一个平凡的大学生。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;能量盗贼 &amp;amp; 小鸡 4 级胖揍员&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;我会在这里更新一些杂文或者知识分享，希望对你有帮助。&lt;/p&gt;</description>
+    </item>
+    
+    
+    <item>
+      <title>Friends</title>
+      <link>https://blog.bj-yan.top/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/friends/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;时不时我会来翻翻友链的朋友们，有些老朋友们的域名或者网站失效了可能就暂时移除了，请留言新的站点信息~（以下排名不分先后）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;div class=&#34;friend-link-div&#34;&gt;
+    &lt;a href=&#34;https://yuzhang.wang/&#34; title=&#34;YuZhangWang 的领域&#34; class=&#34;friend-link&#34; target=&#34;_blank&#34; rel=&#34;friend noopener noreferrer&#34;&gt;
+
+    &lt;div class=&#34;friend-link-avatar&#34;&gt;
+        &lt;img src=&#34;https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png&#34; class=&#34;friend-avatar&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;64&#34; height=&#34;64&#34; alt=&#34;YuZhangWang 的领域&#34; onerror=&#34;this.onerror=null;this.src=&#39;https://blog.bj-yan.top/friend_avator/default.svg&#39;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;friend-link-info&#34;&gt;
+        &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;i class=&#34;friend-name&#34;&gt;YuZhangWang 的领域&lt;/i&gt;
+        &lt;p class=&#34;friend-bio&#34;&gt;PLUSULTRA!&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
