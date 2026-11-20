@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Journey on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/categories/journey/</link>
+    <description>Recent content in Journey on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://blog.bj-yan.top/en/categories/journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perhaps a 2024 Year-End Summary</title>
+      <link>https://blog.bj-yan.top/en/p/annual-summary-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/annual-summary-2024/</guid>
+      <description>My 2024 year-end summary, reflecting on friends, freedom, and anxiety; documenting movies, reading, music, games, and daily life, while expressing expectations for 2025.</description>
+    </item>
+    
+    <item>
+      <title>Perhaps a 2023 Year-in-Review</title>
+      <link>https://blog.bj-yan.top/en/p/annual-summary-2023/</link>
+      <pubDate>Mon, 12 Feb 2024 10:54:07 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/annual-summary-2023/</guid>
+      <description>Looking back on my 2023 life, recording movie premieres, music, and daily experiences, sharing memorable moments and personal reflections from the year.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Notes: Diamond Rank</title>
+      <link>https://blog.bj-yan.top/en/p/games-rank-diamond/</link>
+      <pubDate>Tue, 21 Mar 2023 12:12:17 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/games-rank-diamond/</guid>
+      <description>A record of my journey to Diamond in Apex Legends solo queue, reviewing seasonal ranking, time invested, personal gaming history, and feelings after achieving the goal.</description>
+    </item>
+    
+    <item>
+      <title>Farewell, My Little Island</title>
+      <link>https://blog.bj-yan.top/en/p/good-bye-hainan/</link>
+      <pubDate>Mon, 13 Jun 2022 01:03:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/good-bye-hainan/</guid>
+      <description>Reflecting on four years at Hainan University as I depart, this piece records the island&amp;#39;s climate, friendships, and daily moments, sharing the reluctance and farewell of graduation.</description>
+    </item>
+    
+    <item>
+      <title>Taichi Voxel Challenge 2022</title>
+      <link>https://blog.bj-yan.top/en/p/taichi-voxel-challenge-2022/</link>
+      <pubDate>Sun, 01 May 2022 15:42:26 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/taichi-voxel-challenge-2022/</guid>
+      <description>Documenting my journey participating in the Taichi Voxel Challenge 2022, showcasing my voxel Pac-Man and castle creations, and sharing insights on modeling implementation, parameter tuning, and my overall experience in the competition.</description>
+    </item>
+    
+    <item>
+      <title>The Helplessness of baseIine - My Journey in CodeCraft 2022</title>
+      <link>https://blog.bj-yan.top/en/p/codecraft-2022/</link>
+      <pubDate>Tue, 29 Mar 2022 19:01:47 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/codecraft-2022/</guid>
+      <description>Documenting my experience participating in Huawei CodeCraft 2022, reviewing the bandwidth allocation and 95th percentile billing problem, pitfalls encountered in the practice contest, attempts in the preliminary round, and team reflections.</description>
+    </item>
+    
+    <item>
+      <title>My First Time Calling 120 &amp; My First Ride in an Ambulance</title>
+      <link>https://blog.bj-yan.top/en/p/20211006/</link>
+      <pubDate>Wed, 06 Oct 2021 08:55:36 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/20211006/</guid>
+      <description>A record of calling 120 after my roommate fell ill, waiting for emergency services, and accompanying them in an ambulance, sharing a personal anecdote from campus life.</description>
+    </item>
+    
+    <item>
+      <title>A Long Journey of Learning</title>
+      <link>https://blog.bj-yan.top/en/p/man-man-qiu-xue-lu/</link>
+      <pubDate>Fri, 01 Oct 2021 23:23:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/man-man-qiu-xue-lu/</guid>
+      <description>Reflecting on my journey from high school informatics competitions to Hainan University, documenting my studies, projects, and growth during university, as well as the emotional process of the recommendation for postgraduate exemption phase.</description>
+    </item>
+    
+    <item>
+      <title>A Day Trip to My First IELTS Exam</title>
+      <link>https://blog.bj-yan.top/en/p/20210724/</link>
+      <pubDate>Sat, 24 Jul 2021 13:03:45 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/20210724/</guid>
+      <description>Documenting my experience taking the first paper-based IELTS exam at Hainan University in 2021, reviewing the on-site feelings for the Speaking, Listening, Reading, and Writing sections.</description>
+    </item>
+    
+  </channel>
+</rss>

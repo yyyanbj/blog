@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Optimization on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/optimization/</link>
+    <description>Recent content in Optimization on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Aug 2023 15:04:00 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convergence Analysis in Federated Learning (Part 5)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>Does FedAvg stay at the global optimum if each client takes two steps? That example leads into local drift, partial participation, and aggregation weights.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Distributed Machine Learning (Part 4)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>What happens when one worker falls behind? Follow synchronous, asynchronous, and K-Async SGD to see how noise and stale gradients enter the convergence bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 3)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>What changes when we average over a mini-batch? Follow one step of SGD to see how the step size enters strongly convex error and non-convex stationarity bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 2)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>How many steps do we need, and which point does the bound cover? I look at gradient descent and how to choose a step size for the subgradient method.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 1)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>Convexity, smoothness, and stochastic-gradient assumptions keep coming up in convergence proofs. Here are the definitions and inequalities I use to follow them.</description>
+    </item>
+    
+  </channel>
+</rss>

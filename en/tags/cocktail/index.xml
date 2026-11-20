@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cocktail on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/cocktail/</link>
+    <description>Recent content in Cocktail on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Jun 2025 00:43:10 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/cocktail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cocktails: Lost in the Quiet</title>
+      <link>https://blog.bj-yan.top/en/p/cocktail/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/cocktail/</guid>
+      <description>I tried mixing a few cocktails and still prefer whisky neat. Here are the recipes and bits of history I looked up, along with some notes from quiet bars.</description>
+    </item>
+    
+  </channel>
+</rss>

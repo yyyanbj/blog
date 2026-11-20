@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Optimization on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/optimization/</link>
+    <description>Recent content in Optimization on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 08 Aug 2023 15:04:00 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>FedAvg 从全局最优点出发，各台走两步再平均，还会停在原地吗？从这个例子聊本地漂移、部分参与和聚合权重怎样影响收敛。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>几台 worker 分头算梯度，一台慢了要等吗？从同步、异步和 K-Async SGD 的更新式看噪声、梯度滞后和收敛。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>把精确梯度换成一批样本梯度的平均，误差会怎么变？沿着 mini-batch SGD 的一步下降式，看步长怎样影响强凸误差界和非凸驻点界。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>梯度下降要走多少步，最后选哪个点？我把常见的光滑与凸性情形算一遍，也讲讲次梯度法的步长是怎么选出来的。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>读收敛性证明时，凸性、光滑性和随机梯度的假设总会冒出来。我把常用的定义和几条不等式放在一起，方便和推导对照。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep-Learning on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/deep-learning/</link>
+    <description>Recent content in Deep-Learning on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:54:19 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Efficiency Analysis in Distributed Machine Learning</title>
+      <link>https://blog.bj-yan.top/en/p/efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>How long until we reach the same error? I work through the timing of synchronous, asynchronous, and K-worker SGD alongside their convergence bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Federated Learning (Part 5)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>Does FedAvg stay at the global optimum if each client takes two steps? That example leads into local drift, partial participation, and aggregation weights.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Distributed Machine Learning (Part 4)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>What happens when one worker falls behind? Follow synchronous, asynchronous, and K-Async SGD to see how noise and stale gradients enter the convergence bounds.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Leakage in Deep Learning: What Models, Predictions, and Gradients Reveal</title>
+      <link>https://blog.bj-yan.top/en/p/privacy-leakage-in-deep-learning/</link>
+      <pubDate>Fri, 28 Jul 2023 09:54:50 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/privacy-leakage-in-deep-learning/</guid>
+      <description>The data stays local, so what might an update still reveal? I look at what&amp;#39;s visible, how to read leakage experiments, and what the protections cover.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 3)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>What changes when we average over a mini-batch? Follow one step of SGD to see how the step size enters strongly convex error and non-convex stationarity bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 2)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>How many steps do we need, and which point does the bound cover? I look at gradient descent and how to choose a step size for the subgradient method.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 1)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>Convexity, smoothness, and stochastic-gradient assumptions keep coming up in convergence proofs. Here are the definitions and inequalities I use to follow them.</description>
+    </item>
+    
+    <item>
+      <title>Will AI Replace Artists&#39; Jobs?</title>
+      <link>https://blog.bj-yan.top/en/p/will-ai-replace-the-artists/</link>
+      <pubDate>Mon, 12 Sep 2022 12:01:09 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/will-ai-replace-the-artists/</guid>
+      <description>Combining the development of diffusion models and AI art, this article discusses which tasks in artistic creation might be automated, along with the capabilities, limitations, and the creator&amp;#39;s technical role in image generation.</description>
+    </item>
+    
+    <item>
+      <title>Trial Run of Diffusion Models</title>
+      <link>https://blog.bj-yan.top/en/p/diffusion-model-trial/</link>
+      <pubDate>Sun, 11 Sep 2022 23:03:04 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/diffusion-model-trial/</guid>
+      <description>Reviewing the basic concepts and development history of diffusion models, and recording trial experiences and generation results of image generation models such as Stable Diffusion and DALL·E.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Seaplane Recognition: Model Training and Testing</title>
+      <link>https://blog.bj-yan.top/en/p/hcaptcha-seaplane/</link>
+      <pubDate>Sun, 01 May 2022 23:35:46 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/hcaptcha-seaplane/</guid>
+      <description>Records the training and testing practices for the hCaptcha seaplane recognition task, discussing sample annotation, overfitting issues, and the organization of the model training workflow.</description>
+    </item>
+    
+    <item>
+      <title>What Will the Next Generation of CAPTCHA Look Like? A History of CAPTCHA and the Human-Machine Arms Race</title>
+      <link>https://blog.bj-yan.top/en/p/where-is-the-next-generation-of-captcha/</link>
+      <pubDate>Sun, 01 May 2022 01:53:59 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/where-is-the-next-generation-of-captcha/</guid>
+      <description>Reviewing the evolution of CAPTCHA from character recognition to image recognition, discussing human-machine confrontation, user experience, and potential directions for the next generation of CAPTCHA in the context of hCaptcha practices.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Leaf Elephant Recognition: Data and Model Practice</title>
+      <link>https://blog.bj-yan.top/en/p/hcaptcha-elephant-drawn-with-leaves/</link>
+      <pubDate>Sun, 01 May 2022 01:53:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/hcaptcha-elephant-drawn-with-leaves/</guid>
+      <description>Analyze the data and visual characteristics of the hCaptcha leaf elephant image recognition task, discussing sample classification, model training, and identification challenges caused by similar images.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Left-Flying Airplane Recognition: Image Processing Approach</title>
+      <link>https://blog.bj-yan.top/en/p/hcaptcha-sky-left-airplane/</link>
+      <pubDate>Thu, 03 Mar 2022 23:34:48 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/hcaptcha-sky-left-airplane/</guid>
+      <description>Analyze the hCaptcha task of identifying left-flying airplanes, introducing an implementation approach that uses background complexity, image color, and directional features to determine if an airplane is in the sky.</description>
+    </item>
+    
+    <item>
+      <title>hCaptcha Vertical River Recognition: Image Features and Implementation Approach</title>
+      <link>https://blog.bj-yan.top/en/p/hcaptcha-vertical-river/</link>
+      <pubDate>Wed, 02 Mar 2022 10:32:15 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/hcaptcha-vertical-river/</guid>
+      <description>Analyze the hCaptcha vertical river image task, document observations of image features, recognition methods, and solution iterations, and discuss the impact of generated images on CAPTCHA recognition.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Pixel Art: Research, Datasets, and Tools</title>
+      <link>https://blog.bj-yan.top/en/p/deep-learning-for-pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/deep-learning-for-pixel-art/</guid>
+      <description>Organizing the stylistic features, galleries, datasets, and drawing tools of pixel art, introducing research and projects on deep learning in pixelization, de-pixelization, and pixel art generation.</description>
+    </item>
+    
+  </channel>
+</rss>

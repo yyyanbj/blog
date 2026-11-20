@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Distributed-Machine-Learning on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/en/tags/distributed-machine-learning/</link>
+    <description>Recent content in Distributed-Machine-Learning on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:54:19 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/en/tags/distributed-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Efficiency Analysis in Distributed Machine Learning</title>
+      <link>https://blog.bj-yan.top/en/p/efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>How long until we reach the same error? I work through the timing of synchronous, asynchronous, and K-worker SGD alongside their convergence bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Federated Learning (Part 5)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>Does FedAvg stay at the global optimum if each client takes two steps? That example leads into local drift, partial participation, and aggregation weights.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Distributed Machine Learning (Part 4)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>What happens when one worker falls behind? Follow synchronous, asynchronous, and K-Async SGD to see how noise and stale gradients enter the convergence bounds.</description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis in Deep Learning (Part 3)</title>
+      <link>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/en/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>What changes when we average over a mini-batch? Follow one step of SGD to see how the step size enters strongly convex error and non-convex stationarity bounds.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/categories/research/</link>
+    <description>Recent content in Research on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联邦学习中的 Dirichlet 分布：从概率向量到 Non-IID 数据划分</title>
+      <link>https://blog.bj-yan.top/p/dirichlet-distribution-in-federated-learning/</link>
+      <pubDate>Tue, 22 Aug 2023 17:58:41 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/dirichlet-distribution-in-federated-learning/</guid>
+      <description>论文里一句 Dirichlet 划分到底怎么做？我从一次抽样讲起，算清两种分法，再用 NumPy 看分完以后每台拿到了什么。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的效率分析</title>
+      <link>https://blog.bj-yan.top/p/efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>更新次数少了，训练就会更快吗？我接着分布式收敛性分析，算算同步、异步和 K-worker SGD 跑到同一个误差要等多久。</description>
+    </item>
+    
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>FedAvg 从全局最优点出发，各台走两步再平均，还会停在原地吗？从这个例子聊本地漂移、部分参与和聚合权重怎样影响收敛。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>几台 worker 分头算梯度，一台慢了要等吗？从同步、异步和 K-Async SGD 的更新式看噪声、梯度滞后和收敛。</description>
+    </item>
+    
+    <item>
+      <title>隐私计算中的信息论：如何理解与度量信息泄露</title>
+      <link>https://blog.bj-yan.top/p/information-theory-for-privacy/</link>
+      <pubDate>Fri, 28 Jul 2023 14:55:49 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/information-theory-for-privacy/</guid>
+      <description>从攻击者的观察与辅助信息出发，介绍熵、条件互信息、数据处理不等式和 Fano 不等式，并通过随机响应说明信息论隐私与差分隐私的联系和区别。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的隐私泄露：模型、预测与梯度暴露了什么？</title>
+      <link>https://blog.bj-yan.top/p/privacy-leakage-in-deep-learning/</link>
+      <pubDate>Fri, 28 Jul 2023 09:54:50 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/privacy-leakage-in-deep-learning/</guid>
+      <description>数据留在本地以后，服务器手里的更新还能说明什么？我从能看到什么、想保护什么讲起，再看怎样读懂泄露实验和隐私保证。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>把精确梯度换成一批样本梯度的平均，误差会怎么变？沿着 mini-batch SGD 的一步下降式，看步长怎样影响强凸误差界和非凸驻点界。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>梯度下降要走多少步，最后选哪个点？我把常见的光滑与凸性情形算一遍，也讲讲次梯度法的步长是怎么选出来的。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>读收敛性证明时，凸性、光滑性和随机梯度的假设总会冒出来。我把常用的定义和几条不等式放在一起，方便和推导对照。</description>
+    </item>
+    
+    <item>
+      <title>如何获得微信红包的 Top K</title>
+      <link>https://blog.bj-yan.top/p/the-top-k-of-wechat-red-envelopes/</link>
+      <pubDate>Sat, 08 Jul 2023 12:37:21 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/the-top-k-of-wechat-red-envelopes/</guid>
+      <description>通过 Python 模拟微信红包分配，比较不同领取顺序进入金额 Top K 的概率，展示模拟结果并说明模型假设与局限。</description>
+    </item>
+    
+    <item>
+      <title>测试时增强与模型攻防：从 hCaptcha 图片加噪谈起</title>
+      <link>https://blog.bj-yan.top/p/hcaptcha-test-time-augmentation-and-model-attack-defense/</link>
+      <pubDate>Fri, 10 Jun 2022 14:28:03 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/hcaptcha-test-time-augmentation-and-model-attack-defense/</guid>
+      <description>结合 hCaptcha 图片加噪讨论测试时增强、图像降噪与模型攻击防御，并思考图形验证码在鲁棒性和用户体验上的局限。</description>
+    </item>
+    
+    <item>
+      <title>深度学习与像素画：研究、数据集与工具</title>
+      <link>https://blog.bj-yan.top/p/deep-learning-for-pixel-art/</link>
+      <pubDate>Tue, 15 Feb 2022 01:19:35 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/deep-learning-for-pixel-art/</guid>
+      <description>整理像素画的风格特征、画廊、数据集与绘制工具，介绍深度学习在像素化、去像素化和像素画生成中的研究与项目。</description>
+    </item>
+    
+    <item>
+      <title>格物致知 - 线性代数</title>
+      <link>https://blog.bj-yan.top/p/linear-algerbra-ng/</link>
+      <pubDate>Thu, 14 Oct 2021 21:53:42 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/linear-algerbra-ng/</guid>
+      <description>结合 3Blue1Brown《线性代数的本质》，从几何变换角度理解矩阵乘法、行列式、逆矩阵与秩，记录线性代数学习体会。</description>
+    </item>
+    
+    <item>
+      <title>2021 数学建模</title>
+      <link>https://blog.bj-yan.top/p/mum-2021/</link>
+      <pubDate>Thu, 09 Sep 2021 23:41:44 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/mum-2021/</guid>
+      <description>整理 2021 年全国大学生数学建模竞赛 C 题思路，讨论生产企业原材料订购、供应商选择与运输安排的建模方案。</description>
+    </item>
+    
+  </channel>
+</rss>

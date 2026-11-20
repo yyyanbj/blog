@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mixology on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/mixology/</link>
+    <description>Recent content in Mixology on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 04 Jun 2025 00:43:10 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/mixology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>鸡尾酒：安静中的迷失</title>
+      <link>https://blog.bj-yan.top/p/cocktail/</link>
+      <pubDate>Wed, 04 Jun 2025 00:43:10 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/cocktail/</guid>
+      <description>调过几次鸡尾酒，最后我还是喜欢威士忌纯饮。这篇整理了几款常见酒的历史和配方，也聊聊我坐在清吧时留意到的事。</description>
+    </item>
+    
+  </channel>
+</rss>
