@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/categories/</link>
+    <description>Recent content in Categories on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://blog.bj-yan.top/categories/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/categories/research/</guid>
+      <description>Research, mathematical analysis, machine learning, and experiments.</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://blog.bj-yan.top/categories/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/categories/tech/</guid>
+      <description>Programming, projects, software tools, and practical guides.</description>
+    </item>
+    
+    <item>
+      <title>Reflections</title>
+      <link>https://blog.bj-yan.top/categories/reflections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/categories/reflections/</guid>
+      <description>Personal perspectives, reading notes, and reflections on life and technology.</description>
+    </item>
+    
+    <item>
+      <title>Journey</title>
+      <link>https://blog.bj-yan.top/categories/journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bj-yan.top/categories/journey/</guid>
+      <description>Personal experiences, learning, milestones, and annual reviews.</description>
+    </item>
+    
+  </channel>
+</rss>

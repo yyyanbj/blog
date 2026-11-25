@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Distributed-Machine-Learning on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/tags/distributed-machine-learning/</link>
+    <description>Recent content in Distributed-Machine-Learning on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:54:19 +0800</lastBuildDate><atom:link href="https://blog.bj-yan.top/tags/distributed-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分布式机器学习中的效率分析</title>
+      <link>https://blog.bj-yan.top/p/efficiency-analysis-of-distributed-machine-learning/</link>
+      <pubDate>Wed, 09 Aug 2023 00:54:19 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/efficiency-analysis-of-distributed-machine-learning/</guid>
+      <description>本文着眼于分布式机器学习中的效率分析，介绍同步 SGD、K-Sync SGD、异步 SGD 与 K-Async SGD 的运行时间与误差分析。</description>
+    </item>
+    
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>从 FedAvg 的本地更新推导全参与模型下的非凸驻点界与强凸误差界，区分梯度噪声、客户端漂移和采样误差，并讨论部分参与与异质性修正。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>本文着眼于分布式机器学习中的收敛性分析，作为第四部分，主要介绍了分布式学习中的收敛性证明。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>本文着眼于深度学习中的收敛性分析，作为第三部分，主要介绍了深度学习中随机梯度下降的收敛性证明。</description>
+    </item>
+    
+  </channel>
+</rss>

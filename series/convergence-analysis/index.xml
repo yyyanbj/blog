@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Convergence Analysis on Bingjie&#39;s Blog</title>
+    <link>https://blog.bj-yan.top/series/convergence-analysis/</link>
+    <description>Recent content in Convergence Analysis on Bingjie&#39;s Blog</description>
+    <image>
+      <url>https://blog.bj-yan.top/favicon.png</url>
+      <link>https://blog.bj-yan.top/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://blog.bj-yan.top/series/convergence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联邦学习中的收敛性分析 (Part 5)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</link>
+      <pubDate>Tue, 08 Aug 2023 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-5/</guid>
+      <description>从 FedAvg 的本地更新推导全参与模型下的非凸驻点界与强凸误差界，区分梯度噪声、客户端漂移和采样误差，并讨论部分参与与异质性修正。</description>
+    </item>
+    
+    <item>
+      <title>分布式机器学习中的收敛性分析 (Part 4)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</link>
+      <pubDate>Mon, 07 Aug 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-4/</guid>
+      <description>本文着眼于分布式机器学习中的收敛性分析，作为第四部分，主要介绍了分布式学习中的收敛性证明。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 3)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</link>
+      <pubDate>Tue, 25 Jul 2023 15:03:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-3/</guid>
+      <description>本文着眼于深度学习中的收敛性分析，作为第三部分，主要介绍了深度学习中随机梯度下降的收敛性证明。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 2)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</link>
+      <pubDate>Mon, 24 Jul 2023 15:02:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-2/</guid>
+      <description>本文着眼于深度学习中的收敛性分析，作为第二部分，主要介绍了深度学习中梯度下降在（强凸光滑/光滑凸/非光滑凸/光滑非凸/非凸情况下）的收敛性证明。</description>
+    </item>
+    
+    <item>
+      <title>深度学习中的收敛性分析 (Part 1)</title>
+      <link>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</link>
+      <pubDate>Sun, 23 Jul 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://blog.bj-yan.top/p/convergence-analysis-in-deep-learning-part-1/</guid>
+      <description>本文着眼于深度学习中的收敛性分析，作为第一部分，首先介绍了深度学习中的优化问题的基本概念以及常见不等式的推导。</description>
+    </item>
+    
+  </channel>
+</rss>
